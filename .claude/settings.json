@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash scripts/alpaca.sh account)",
+      "Bash(bash scripts/alpaca.sh positions)",
+      "Bash(bash scripts/alpaca.sh position *)",
+      "Bash(bash scripts/alpaca.sh quote *)",
+      "Bash(bash scripts/alpaca.sh orders)",
+      "Bash(bash scripts/alpaca.sh orders *)",
+      "Bash(bash scripts/perplexity.sh *)",
+      "Bash(git add memory/*)",
+      "Bash(git commit -m *)",
+      "Bash(git push origin main)",
+      "Bash(git pull --rebase origin main)",
+      "Bash(chmod +x scripts/*.sh)"
+    ],
+    "deny": []
+  }
+}
