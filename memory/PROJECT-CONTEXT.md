@@ -31,6 +31,7 @@ Risk is managed through hard stop rules, position sizing limits, and sector disc
 - memory/WEEKLY-REVIEW.md — weekly performance recaps
 
 ## Starting Baseline
-- Starting capital: update this line when you go live
-- Starting date: update this line when you go live
-- Paper trading first: yes — run in paper mode until strategy is validated
+- Starting capital: $10,000.00 (paper account)
+- Starting date: 2026-04-22
+- Mode: PAPER TRADING — Alpaca paper endpoint, not live funds
+- Switch to live: only after strategy is validated over multiple weeks
