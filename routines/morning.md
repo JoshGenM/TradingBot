@@ -107,7 +107,7 @@ STEP 9 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md
   [[ trades were placed ]] && git add memory/TRADE-LOG.md
   git commit -m "morning research + trades $DATE"
-  git push origin main
+  git push origin master
 On push failure from divergence:
-  git pull --rebase origin main
+  git pull --rebase origin master
   then push again. Never force-push.

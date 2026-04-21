@@ -117,7 +117,7 @@ STEP 10 — COMMIT AND PUSH (mandatory):
   [[ Friday ]] && git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
   git commit -m "EOD snapshot $DATE"
   # On Friday use: git commit -m "EOD + weekly review $DATE"
-  git push origin main
+  git push origin master
 On push failure from divergence:
-  git pull --rebase origin main
+  git pull --rebase origin master
   then push again. Never force-push.
