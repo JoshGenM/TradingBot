@@ -79,7 +79,6 @@ Urgent = a held position is already below -7% in pre-market, a thesis broke over
 STEP 6 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md
   git commit -m "pre-market research $DATE"
-  git push origin master
-On push failure from divergence:
   git pull --rebase origin master
-  then push again. Never force-push.
+  git push origin master
+Never force-push. On second failure: send one ClickUp alert "pre-market commit failed $DATE" and exit.

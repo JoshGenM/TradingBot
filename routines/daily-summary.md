@@ -23,7 +23,7 @@ IMPORTANT — PERSISTENCE:
   Day P&L calculation depends on today's EOD equity being persisted.
 
 STEP 1 — Read memory for continuity:
-- tail -150 memory/TRADE-LOG.md
+- tail -500 memory/TRADE-LOG.md
   Find the most recent EOD snapshot section -> extract yesterday's closing equity.
   Count TRADE-LOG entries dated $DATE (for "Trades today").
   Count trades Mon through today this week (for 3/week cap tracking).
@@ -64,5 +64,6 @@ Tomorrow: <one-line plan or 'monitor open positions'>"
 STEP 6 — COMMIT AND PUSH (mandatory every day — no exceptions):
   git add memory/TRADE-LOG.md
   git commit -m "EOD snapshot $DATE"
+  git pull --rebase origin master
   git push origin master
-On push failure: git pull --rebase origin master, then push again. Never force-push.
+Never force-push. On second failure: send one ClickUp alert "EOD commit failed $DATE — MANUAL ACTION REQUIRED" and exit.

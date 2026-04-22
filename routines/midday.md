@@ -26,6 +26,8 @@ STEP 1 — Read memory:
 - memory/TRADING-STRATEGY.md (exit rules and stop-tightening thresholds)
 - tail -100 memory/TRADE-LOG.md (entries, original thesis per position, stops)
 - today's entry in memory/RESEARCH-LOG.md (morning thesis for each position)
+  Validate: grep for "## $DATE" in RESEARCH-LOG.md. If today's entry is MISSING,
+  skip STEP 6 (thesis checks) — manage positions on price action and stop rules only.
 
 STEP 2 — Pull current state:
   bash scripts/alpaca.sh positions
@@ -58,6 +60,7 @@ Silent if no action taken.
 STEP 8 — COMMIT AND PUSH (only if memory files changed):
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md
   git commit -m "midday scan $DATE"
+  git pull --rebase origin master
   git push origin master
 Skip commit if no-op (nothing changed).
-On push failure: git pull --rebase origin master, then push again. Never force-push.
+Never force-push. On second failure: send one ClickUp alert "midday commit failed $DATE" and exit.

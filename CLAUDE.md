@@ -16,11 +16,20 @@ Open these in order before doing anything:
 
 ## Daily Workflows
 
-Two scheduled runs per trading day:
-- **Morning (8:30 AM CT)** — Research + execute planned trades at market open
-- **Evening (3:30 PM CT)** — Position management + EOD summary + Friday weekly review
+Five scheduled runs per trading day (Mon-Fri). Each is an independent cloud routine:
+- **Pre-Market (6:00 AM CT)** — Market research + trade ideas → writes RESEARCH-LOG
+- **Market-Open (8:30 AM CT)** — Buy-side gate + trade execution → writes TRADE-LOG
+- **Midday (12:00 PM CT)** — Cut losers, tighten stops, thesis check → writes TRADE-LOG
+- **Daily Summary (3:00 PM CT)** — EOD snapshot + ClickUp report → writes TRADE-LOG (mandatory commit)
+- **Weekly Review (4:00 PM CT Fridays)** — Week metrics + strategy review → writes WEEKLY-REVIEW
 
-Defined in .claude/commands/ (local) and routines/ (cloud).
+Defined in .claude/commands/ (local slash commands) and routines/ (cloud routine prompts).
+
+## RESEARCH-LOG Format Rule
+
+Every pre-market entry MUST start with this exact header:
+  ## YYYY-MM-DD — Pre-market Research
+All routines that read today's entry grep for "## $DATE" — header must match this format exactly.
 
 ## Strategy Hard Rules (quick reference)
 

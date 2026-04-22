@@ -102,5 +102,6 @@ STEP 7 — COMMIT AND PUSH (mandatory):
   # Only add TRADING-STRATEGY.md if it was changed in STEP 5:
   # git add memory/TRADING-STRATEGY.md
   git commit -m "weekly review $DATE"
+  git pull --rebase origin master
   git push origin master
-On push failure: git pull --rebase origin master, then push again. Never force-push.
+Never force-push. On second failure: send one ClickUp alert "weekly-review commit failed $DATE" and exit.

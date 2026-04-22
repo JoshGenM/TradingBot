@@ -24,8 +24,8 @@ IMPORTANT — PERSISTENCE:
 STEP 1 — Read memory for today's plan:
 - memory/TRADING-STRATEGY.md (all rules and stock quality filter)
 - TODAY's entry in memory/RESEARCH-LOG.md (the plan from pre-market)
-  If today's entry is MISSING: run pre-market STEPS 1-3 inline before proceeding.
-  NEVER trade without documented research.
+  Validate: grep for "## $DATE" in RESEARCH-LOG.md. If that header is MISSING or belongs to a prior date,
+  run pre-market STEPS 1-3 inline before proceeding. NEVER trade without documented research for TODAY.
 - tail -100 memory/TRADE-LOG.md (current positions and weekly trade count)
 
 STEP 2 — Re-validate with live data:
@@ -67,6 +67,7 @@ Silent if no trades fired.
 STEP 8 — COMMIT AND PUSH (only if trades were placed):
   git add memory/TRADE-LOG.md
   git commit -m "market-open trades $DATE"
+  git pull --rebase origin master
   git push origin master
 Skip commit entirely if no trades fired.
-On push failure: git pull --rebase origin master, then push again. Never force-push.
+Never force-push. On second failure: send one ClickUp alert "market-open commit failed $DATE" and exit.
