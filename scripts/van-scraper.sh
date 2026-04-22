@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Ford Transit Connect EcoBlue van scraper — UK listing sites.
-# Usage: bash scripts/van-scraper.sh [--format=table|json] [--sites=autotrader,motors]
+# Usage: bash scripts/van-scraper.sh [--format=table|json] [--sites=autotrader,gumtree] [--pages=N]
 # No credentials required. Public web scraping only.
 
 set -euo pipefail
