@@ -58,3 +58,38 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-04-23 — Morning Research
+
+### Account Snapshot
+- Equity: $100,143.56 | Cash: $81,394.92 | Buying power: $181,538.48 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ESM26 +0.56% premarket (conflicting: Polymarket assigns 90% probability of opening down vs. prior close)
+- VIX: 18.92 (-2.97% from 19.50 yesterday) — elevated but improving; prior day S&P +1.05%, Nasdaq +1.73%
+- Oil (WTI/Brent): WTI $92.82 | Brent $101.76 — Brent crossed $100 threshold; Iran–US Strait of Hormuz tensions, ship seizures
+- Top catalysts today: GEV Q1 beat (+14% yesterday, $9.34B rev +17% YoY, guidance raised to $44.5–$45.5B); GILD, NDAQ, AXP, BX, TMO, INTC reporting today
+- Earnings before open: NDAQ Q1 2026 (at 8:00 AM ET); multiple large-caps report after close today (GILD after close, AXP, BX, TMO)
+- Economic releases today: No major US events; Fed Gov. Waller speech (06:30 PM UTC); no CPI/PPI/FOMC/jobs
+- Sector momentum: Energy leading (oil at $101); Industrials strong (GEV/data-center tailwind); Tech strong but price momentum weak; Healthcare rolling over
+
+### Held Positions — News Check
+- AMZN: Q1 2026 earnings April 29 after close (not today). Recovering from Feb capex guidance shock ($200B 2026 capex). AWS growth 24% YoY in Q4 2025. Stock at $253.36 from $210 April lows (+20% recovery). Thesis intact — AI cloud leader. NOTE: Stop was missing, placed today (trailing 10%, trigger $227.89). Y
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. GILD — SKIP: Reports Q1 2026 earnings TODAY after close (same-day binary event). No entry permitted regardless of analyst upgrades ($165–$180 targets). Revisit post-earnings (April 24).
+2. GEV — SKIP: Q1 beat triggered +14% gap yesterday. Close $1,134 near analyst target range ($993–$1,150). Limited upside with wide pre-market spread ($1,062/$1,181). Chasing overextended.
+3. MU — SKIP: Reports earnings today (same-day binary event, $59B cap, strong metrics but blocked).
+4. MSFT — MONITOR: Earnings April 29 (same day as AMZN held position). Adding MSFT today doubles April 29 binary event exposure across 40% of portfolio. No entry today; revisit if AMZN exits pre-earnings.
+
+### Risk Factors
+- Brent crude $101/barrel — Iran–US tensions active, Strait of Hormuz seizures ongoing; oil shock risk
+- VIX 18.92 still elevated (>18 = caution threshold)
+- Conflicting signals: ESM26 futures +0.56% vs. Polymarket 90% probability of opening down
+- AMZN binary risk in 4 trading days (April 29 earnings); trailing stop now in place
+- All primary candidates blocked by same-day binary events or overextension
+
+### Decision
+HOLD — No new trades. GILD and MU both report today (binary events). GEV overextended post-14% gap with limited upside to analyst targets. MSFT doubles April 29 earnings exposure. Key action: AMZN trailing stop placed (was missing). Revisit GILD and MSFT post-April 29 earnings cycle.
