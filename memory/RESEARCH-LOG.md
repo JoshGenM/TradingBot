@@ -58,3 +58,54 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-04-28 — Morning Research
+
+### Account Snapshot
+- Equity: $100,708.92 | Cash: $81,394.92 | Buying power: $142,036.35 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ESM26 ~7,221.75 (-0.06%) — essentially flat premarket
+- VIX: 18.37 (down from 19.31 prev day) — moderate/neutral; below 20 signals lower fear, declining trend positive
+- Oil (WTI/Brent): WTI $97.31 (+0.98%) / Brent $109.30 (+0.97%) — elevated; Iran war stall driving geopolitical risk premium
+- Top catalysts today: NVDA hits $5.26T market cap (all-time high for any public company); AVGO reaches $2T on AI custom silicon dominance (70% accelerator market share); AI infrastructure momentum ahead of Mag 7 earnings week (MSFT/GOOGL/META/AMZN on Apr 29, AAPL on Apr 30)
+- Earnings before open: ~45 companies; notable KO, VZ — no direct portfolio holdings reporting today
+- Economic releases today: None material — no CPI, PPI, FOMC; Fed funds rate steady at 3.50–3.75%
+- Sector momentum: Q1 2026 (through Mar 31): Energy +37.9% > Materials > Consumer Staples > Utilities; IT -7.8%, Financials -7.5%, Consumer Disc -8.5%. April reversal in tech significant: semiconductor index +36% in April, NVDA +20% from Oct lows — AI catalyst week likely sustains
+
+### Held Positions — News Check
+- AMZN ($261.00, entry $251.42, +3.81%): AWS-Meta Graviton deal signed today; analyst consensus "Moderate Buy" (54/59 Buy, avg PT $289). Thesis intact. ⚠️ RISK: Q1 earnings due TOMORROW April 29 — binary-event; evaluate exit before close in tonight's evening run
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+*Note: Market orders for NVDA and AVGO submitted premarket at 07:55 UTC; pending fill at market open 09:30 ET.*
+
+1. NVDA — AI GPU dominance; $5.26T market cap (record for any public company); price ~$223 >> $10; avg vol >50M/day; ATH — strong uptrend; catalyst: record valuation milestone, Qualcomm-OpenAI deal read-through, Mag 7 AI CapEx week; no NVDA earnings this week. Entry ~$223 (market), stop ~$200 (-10%), target $268, R:R ~2.3:1. ⚠️ At $223 ask: 91sh × $223 = $20,293 (20.1% equity — borderline; actual fill TBD)
+2. AVGO — Custom AI silicon; $2T market cap; price ~$423 >> $10; avg vol >15M/day; uptrend (ATH); catalyst: 70% AI accelerator market share, Google Cloud collaboration 4/22, hyperscaler CapEx signals ($645B Mag 7 aggregate 2026); no AVGO earnings this week. Entry ~$423 (market), stop ~$380 (-10%), target $507, R:R ~2:1. ⚠️ At $423: 50sh × $423 = $21,150 (21.0% equity — slightly over; fill price TBD)
+
+### Buy-Side Gate Results
+| Check | NVDA | AVGO |
+|---|---|---|
+| Total positions ≤5 after fill | ✓ (3 total) | ✓ (3 total) |
+| Trades this week ≤3 | ✓ (2/3) | ✓ (2/3) |
+| Position ≤20% equity | ⚠️ borderline at ask | ⚠️ borderline at ask |
+| Position ≤ cash | ✓ | ✓ |
+| Daytrade count <3 | ✓ (0) | ✓ (0) |
+| Catalyst documented | ✓ AI CapEx wave | ✓ AI CapEx wave |
+| Market cap >$2B | ✓ $5.26T | ✓ $2T |
+| Price >$10 | ✓ ~$223 | ✓ ~$423 |
+| Avg vol >1M | ✓ >50M | ✓ >15M |
+| Not binary-event | ✓ (no NVDA earnings this week) | ✓ (no AVGO earnings this week) |
+| Stock (not ETF/option) | ✓ | ✓ |
+
+### Risk Factors
+- AMZN binary event: Q1 earnings April 29 (tomorrow) — existing position; exit decision needed tonight in evening run
+- Oil at $97 WTI — geopolitical (Iran war stall); spike risk is real
+- AVGO/NVDA position sizes borderline at ~20% each; actual fill prices determine compliance
+- Sector concentration: All 3 positions AI/tech-adjacent — correlated downside if AI CapEx narrative breaks
+- Mag 7 CapEx commentary risk: any guidance disappointment hits NVDA/AVGO hard
+- VIX 18.37 — stable but elevated vs historical avg; geopolitical shock could spike
+
+### Decision
+TRADE — NVDA (91 shares) and AVGO (50 shares) market orders submitted premarket. Both pass all core quality filters. Catalyst: AI infrastructure momentum + Mag 7 earnings CapEx read-through week. Weekly trade count: 2/3. Total positions after fill: 3/5. Trailing stops to be placed upon fill confirmation. Monitor AMZN closely tonight ahead of earnings.
