@@ -81,18 +81,29 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 - AMZN: All-time high $264.50 hit 4/24; current ~$264.15 (+5.06% vs entry $251.42). Up ~25% in 30 days, +14% YTD. $25B Anthropic AI partnership deepening; Globalstar acquisition ($11.6B). Reports Q1 2026 earnings Wednesday 4/29 after close (consensus EPS $1.65). Trailing stop 10% at $237.94, HWM $264.38. **Thesis: INTACT ✓ — earnings binary event Wednesday is the primary near-term risk; stop handles downside.**
 
 ### Trade Ideas (large/mid-cap only — all quality filters applied)
-1. INTC — Q1 2026 blowout (+EPS $0.29 vs $0.01 est); market cap ~$430B ✓; price ~$85 ✓; vol extremely elevated post-earnings. **SKIP** — buying after a 25% single-day surge = chasing. No clean entry without consolidation; catalyst fully priced in.
-2. XOM/CVX — Energy sector YTD +22% but Brent off -23% from peak; capital rotating away to AI/semis; "long oil trade stalling." **SKIP** — trend fading, sector rotation against.
-3. MSFT — Down 15% YTD, potential recovery with AI Copilot monetization ($25B projected). Reports 4/29 (2 days out). **SKIP** — buying 2 days before earnings = binary event play per strategy rules.
-4. VZ — Reports today before open. **SKIP** — same-day earnings entry prohibited by strategy.
+
+**SKIPPED:**
+1. INTC — Q1 2026 blowout (+EPS $0.29 vs $0.01 est); market cap ~$430B ✓; price ~$85 ✓. **SKIP** — buying after 25% single-day surge = chasing. Catalyst fully priced in.
+2. XOM/CVX — Energy YTD +22% but Brent -23% from $138 peak; capital rotating to AI/semis. **SKIP** — trend fading.
+3. MSFT — Down 15% YTD. Reports 4/29 (2 days). **SKIP** — binary event too close.
+4. VZ — Reports today before open. **SKIP** — same-day earnings.
+5. MRVL — Down 3.91% today; Benchmark downgrade (lost Amazon Trainium 3/4); canceled purchase orders from Celestial AI; CFO selling. **SKIP** — multiple negative catalysts.
+6. AMD — Up 65% in April, $347 ATH; Northland Capital downgraded today (high 2027 expectations); pulled back to ~$315 at close. DA Davidson Buy $375. Reports May 5. **BORDERLINE** — extended but real catalyst; Northland downgrade limits conviction.
+
+**APPROVED — Orders placed, pending fill at 4/28 market open:**
+1. NVDA — AI infrastructure leader; INTC/AMD Q1 blowouts confirm AI chip supercycle; tech sector #1 momentum (Alpha Z +1.85); market cap $5.06T ✓; price ~$216 ✓; avg vol >200M/day ✓; confirmed uptrend above all MAs, +88% in 12 months ✓; reports May 20 (no binary event this week) ✓. Entry ~$218 est, stop ~$196 (-10%), target ~$261 (+20%), R:R 2:1. **91 shares × ~$218 = ~$19,838 (19.7% equity)**
+2. AVGO — AI custom ASIC chips for hyperscalers; +22% YTD, near ATH $422; market cap $2.06T ✓; price ~$399 ✓; avg vol >10M/day ✓; uptrend confirmed ✓; reports June 4 (no binary event this week) ✓. Entry ~$400 est, stop ~$360 (-10%), target ~$480 (+20%), R:R 2:1. **50 shares × ~$400 = ~$20,000 (19.8% equity)**
+3. AMD — Agentic AI demand catalyst; DA Davidson upgrade Buy $375; INTC read-through for CPU/AI workloads; market cap ~$511B ✓; price ~$315 ✓; avg vol >50M/day ✓; uptrend (up 65% April, pulled back ~9% from ATH to close $315) ✓; reports May 5 ✓. Risk noted: Northland downgrade today. Entry ~$318 est, stop ~$286 (-10%), target ~$381 (+20%), R:R 2:1. **63 shares × ~$318 = ~$20,034 (19.8% equity)**
+
+**Trailing stops:** Alpaca rejected (403 — no position until fill). Queued for morning-of-fill at 4/28 open — **must place 10% trailing stop GTC on each position immediately at fill confirmation.**
 
 ### Risk Factors
 - FOMC Wednesday 4/30 — rate decision creates macro uncertainty for all positions
-- AMZN earnings Wednesday 4/29 after close — held position; trailing stop at $237.94 is protection; do NOT add exposure
+- AMZN earnings Wednesday 4/29 after close — trailing stop at $237.94 is protection; no additional AMZN exposure added
 - Mag7 earnings (AMZN/MSFT/GOOGL/META all 4/29) creates sector-wide event risk mid-week
-- Oil at $95-96 WTI — persistent inflation headwind, margin pressure on non-energy sectors
-- INTC post-surge — pullback risk if profit-taking sets in Monday; not a clean entry point
-- Energy stocks stalling after peak run; sector rotation data confirms
+- AMD: Northland Capital downgrade today + extended after 65% April run — highest-risk of the three new positions
+- Oil at $95-96 WTI — persistent inflation headwind
+- All 3 weekly trade slots used — no further new entries possible this week
 
 ### Decision
-HOLD — No new positions. Heavy event week: FOMC + Mag7 earnings Wednesday creates too much unresolved macro risk for new capital deployment. No trade idea satisfies both catalyst clarity AND momentum alignment without near-term binary event overlap. AMZN position healthy at +5.06%; trailing stop active. Monitor AMZN: if it reaches +15% above entry (~$289), tighten trailing stop to 7% per strategy rules. Weekly trades 0/3 used — preserving capacity for cleaner setups next week.
+TRADE — 3 new positions initiated: NVDA (91sh), AVGO (50sh), AMD (63sh). Market orders pending, execute at 4/28 open. Total new deployment ~$59,872. Post-fill account deployment: ~$79,419 (~79% of equity), hitting strategy's 70-80% target band. Weekly trade count: 3/3 (at limit). **ACTION REQUIRED 4/28 morning: confirm fills and immediately place 10% trailing stop GTC on each of NVDA, AVGO, AMD.**
