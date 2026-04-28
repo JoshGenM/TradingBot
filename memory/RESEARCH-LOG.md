@@ -93,17 +93,18 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 **APPROVED — Orders placed, pending fill at 4/28 market open:**
 1. NVDA — AI infrastructure leader; INTC/AMD Q1 blowouts confirm AI chip supercycle; tech sector #1 momentum (Alpha Z +1.85); market cap $5.06T ✓; price ~$216 ✓; avg vol >200M/day ✓; confirmed uptrend above all MAs, +88% in 12 months ✓; reports May 20 (no binary event this week) ✓. Entry ~$218 est, stop ~$196 (-10%), target ~$261 (+20%), R:R 2:1. **91 shares × ~$218 = ~$19,838 (19.7% equity)**
 2. AVGO — AI custom ASIC chips for hyperscalers; +22% YTD, near ATH $422; market cap $2.06T ✓; price ~$399 ✓; avg vol >10M/day ✓; uptrend confirmed ✓; reports June 4 (no binary event this week) ✓. Entry ~$400 est, stop ~$360 (-10%), target ~$480 (+20%), R:R 2:1. **50 shares × ~$400 = ~$20,000 (19.8% equity)**
-3. AMD — Agentic AI demand catalyst; DA Davidson upgrade Buy $375; INTC read-through for CPU/AI workloads; market cap ~$511B ✓; price ~$315 ✓; avg vol >50M/day ✓; uptrend (up 65% April, pulled back ~9% from ATH to close $315) ✓; reports May 5 ✓. Risk noted: Northland downgrade today. Entry ~$318 est, stop ~$286 (-10%), target ~$381 (+20%), R:R 2:1. **63 shares × ~$318 = ~$20,034 (19.8% equity)**
 
-**Trailing stops:** Alpaca rejected (403 — no position until fill). Queued for morning-of-fill at 4/28 open — **must place 10% trailing stop GTC on each position immediately at fill confirmation.**
+**CANCELED — AMD order voided before fill:**
+- AMD initially placed but canceled: up 65% in April + Northland Capital downgrade same day = insufficient conviction. Our own research labeled it "BORDERLINE." With FOMC Wednesday and AMZN earnings Wednesday, deploying into the most extended/downgraded name in the sector was not justified by evidence. Weekly trade slot preserved (2/3 used) for a higher-conviction opportunity post-FOMC.
+
+**Trailing stops:** Alpaca rejected (403 — no position until fill). Queued for morning-of-fill at 4/28 open — **must place 10% trailing stop GTC on each of NVDA and AVGO immediately at fill confirmation.**
 
 ### Risk Factors
 - FOMC Wednesday 4/30 — rate decision creates macro uncertainty for all positions
 - AMZN earnings Wednesday 4/29 after close — trailing stop at $237.94 is protection; no additional AMZN exposure added
 - Mag7 earnings (AMZN/MSFT/GOOGL/META all 4/29) creates sector-wide event risk mid-week
-- AMD: Northland Capital downgrade today + extended after 65% April run — highest-risk of the three new positions
 - Oil at $95-96 WTI — persistent inflation headwind
-- All 3 weekly trade slots used — no further new entries possible this week
+- Bot has 7 days history with 1 prior trade (AMZN) — no closed-trade track record yet; size accordingly
 
 ### Decision
-TRADE — 3 new positions initiated: NVDA (91sh), AVGO (50sh), AMD (63sh). Market orders pending, execute at 4/28 open. Total new deployment ~$59,872. Post-fill account deployment: ~$79,419 (~79% of equity), hitting strategy's 70-80% target band. Weekly trade count: 3/3 (at limit). **ACTION REQUIRED 4/28 morning: confirm fills and immediately place 10% trailing stop GTC on each of NVDA, AVGO, AMD.**
+TRADE (disciplined) — 2 new positions initiated: NVDA (91sh) + AVGO (50sh). AMD order placed then canceled (insufficient conviction under reflection — Northland downgrade + 65% monthly extension). Post-fill deployment: AMZN $19.5k + NVDA $19.8k + AVGO $20k = **~$59.3k (~58.8% equity)**. Weekly trades: 2/3 used, 1 slot preserved for high-conviction post-FOMC setup. **ACTION REQUIRED 4/28 morning: confirm fills, place 10% trailing stop GTC on NVDA and AVGO immediately.**
