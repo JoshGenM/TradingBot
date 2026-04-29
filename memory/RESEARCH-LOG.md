@@ -58,3 +58,43 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-04-29 — Morning Research
+
+### Account Snapshot
+- Equity: $100,944.48 | Cash: $42,263.88 | Buying power: $143,208.36 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,179 (ref: 4/28 close; data from historical series — live feed limited premarket)
+- VIX: 17.83 (down from 18.02 prior day) — neutral/moderate fear, below 20 threshold
+- Oil (WTI/Brent): WTI ~$99–100/bbl; July contract $104.84 — 8-session gain streak; EIA inventory draws driving bullish momentum
+- Top catalysts today: Hyperscaler earnings wave — AMZN (AHC), GOOGL, META, MSFT; NVDA outlook tied to CapEx guidance; FIX (Comfort Systems) earnings today; TXN momentum (Zacks #1, +41.9% 3-mo)
+- Earnings before open: None confirmed
+- Earnings after close today: AMZN Q1 2026 (call 2:30 PM PT / 5:30 PM ET — AWS consensus $36.8B, +24% YoY); GOOGL, META, MSFT also reporting
+- Economic releases today: FOMC meeting decision (April 28-29 meeting) — announcement expected ~2:00 PM ET; Fed expected to hold at 3.50–3.75%; Powell press conference after
+- Sector momentum: Technology leading (+2.2% on 4/22, only sector beating S&P 500 in April); Energy mixed (down 14% April but daily strength); Real Estate worst; Consumer Discretionary underwhelming; Industrials/Utilities slightly negative
+
+### Held Positions — News Check
+- AMZN: Q1 2026 earnings AHC today (5:30 PM ET). AWS consensus $36.8B (+24% YoY); OpenAI Codex + Meta Graviton partnerships announced; premarket ask ~$270 (vs $259.90 close) suggesting positive expectations. Trailing stop HWM $264.38, stop $237.94. Thesis intact Y — but binary event risk today; stop in place
+- AVGO: No specific news today. Essentially flat from entry (-0.04%, $401.30 vs $401.44). Trailing stop now placed (HWM $400.60, stop $360.54). AI ASIC demand thesis intact Y
+- NVDA: Hit new 52-week high Monday $216.83, pulled back Tuesday to $213.07 (-1.63%); 29% monthly surge; BofA Buy rating $300 PT; Mizuho $275 Outperform. Revenue +65% YoY. Hyperscaler capex guidance today directly impacts NVDA AI chip demand outlook. Trailing stop now placed (HWM $212.91, stop $191.62). Thesis intact Y — watch hyperscaler CapEx announcements tonight
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- No new trade ideas actionable today — see Decision below
+
+### Risk Factors
+- FOMC decision at ~2 PM ET: any hawkish tone or rate-path shift could spook markets
+- AMZN Q1 earnings binary risk: we hold 74 shares (+3.4%); trailing stop ($237.94) is only partial protection vs potential earnings gap-down
+- Hyperscaler CapEx guidance (GOOGL/META/MSFT): any capex reduction would hit NVDA hard
+- Oil at $99–100 inflationary: FOMC may cite this in hawkish language
+- VIX futures at 20.86 for near-term expiry suggest slightly elevated implied volatility ahead
+- NVDA technical: overbought after 29% monthly surge; pullback risk if earnings disappoint sector
+
+### Decision
+HOLD — Massive event concentration today (FOMC decision + 4 hyperscaler earnings AHC). No new entries. Protect existing positions via trailing stops now in place on all three holdings. 2 of 3 weekly trades used (NVDA + AVGO on 4/28). Patience > activity. Reassess tomorrow morning after today's earnings are digested.
+
+**Trailing stop maintenance completed this morning:**
+- AVGO 50 shares: trailing stop 10% placed (HWM $400.60, stop $360.54, GTC) — was missing
+- NVDA 91 shares: trailing stop 10% placed (HWM $212.91, stop $191.62, GTC) — was missing
