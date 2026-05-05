@@ -58,3 +58,39 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-05-05 — Morning Research
+
+### Account Snapshot
+- Equity: $101,725 | Cash: $27,452 | Buying power: $129,177 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,243 (+0.18%) — slightly positive premarket
+- VIX: ~18.5 (elevated from Iran Strait of Hormuz tensions; May 4 intraday high 19.08; trending down from 24.6 a year ago)
+- Oil (WTI/Brent): WTI $104.64 (-1.67% today after +4% yesterday on Iran missile strike reports; US Navy reopening Strait of Hormuz)
+- Top catalysts today: AMZN new 52-wk high + DZ Bank upgrade; FANG (Diamondback Energy) new 52-wk high on Q1 beat (EPS $4.23 vs $3.74); energy sector strength from oil at $104+; QCOM +15% from data center entry news (prior week)
+- Earnings before open: Life Time Group (LTH, small cap, skip); 633 total reports today — no major large-cap movers identified
+- Economic releases today: None — clean calendar; NFP (April) May 8, CPI (April) May 12; FOMC held rates 3.5–3.75% (April meeting); Powell term ends May 15
+- Sector momentum: Energy (XLE) #1 (+30.3% 6M), Materials (XLB) #2, Industrials (XLI) #3, Consumer Staples (XLP) #4; Tech (XLK) weakening in RRG; Financials lagging
+
+### Held Positions — News Check
+- AMZN: New 52-wk high today; DZ Bank upgrade; Q1 EPS $2.78 vs $1.64 expected; AWS +28% (fastest in 15 quarters); 13.1% record operating margin; launched Amazon Supply Chain Services (logistics to all businesses). Thesis intact ✓
+- AVGO: RSI 69; GF Score 93/100; Meta multi-year MTIA chip partnership (extends to 2029, multi-GW); OpenAI custom accelerator deal; Google Cloud AppNeta integration; new 10G broadband SoCs announced. Institutional accumulation. Thesis intact ✓
+- MSFT: Q3 FY26 beat (revenue + Azure growth above consensus); stock fell ~5% post-earnings on capex scrutiny (heavy data center build-out), then recovered; Goldman $610 PT, BMO $515 PT, Stifel $415; now trading ~$416. Thesis intact ✓
+- NVDA: -5.1% unrealized (-$972); current $198.76 vs entry $209.44; -7% manual cut threshold = $194.78; trailing stop HWM $212.91 → stop at $191.62. News: $130M Bangalore expansion lease; H200 China approval pending; $30B OpenAI investment discussions; 77% revenue growth guidance. GF Value $315.83 (33.7% upside). Thesis intact but approaching manual cut level ⚠️
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. FANG (Diamondback Energy) — Catalyst: Q1 2026 beat (EPS $4.23 vs $3.74 exp, rev $4.24B vs $3.83B), new 52-wk high, Energy sector #1 momentum, WTI at $104+; market cap $59B; price ~$213; avg vol ~2.3M/day; uptrend Y (new 52-wk high). DISQUALIFIED — Alpaca live quote: bid $195.84 / ask $0 (zero ask = illiquid/stale premarket quote). Skip per rules: wide spread / zero ask.
+
+### Risk Factors
+- Iran tensions ongoing (Strait of Hormuz); US Navy reopening strait, oil pulled back -1.67% today but remains elevated
+- VIX at 18.5 — moderate caution warranted
+- Tech sector weakening in RRG momentum (affects AMZN, AVGO, MSFT, NVDA)
+- NVDA at -5.1%, approaching -7% manual cut threshold ($194.78); trailing stop at $191.62 provides backstop but manual cut would trigger first
+- NFP on May 8 and CPI on May 12 could introduce volatility — clean week this week but data risk building
+- Powell term ending May 15 — leadership transition risk
+
+### Decision
+HOLD — No qualifying new trade setup. FANG (best energy catalyst today) disqualified by zero-ask Alpaca quote. VIX elevated, tech sector weakening but existing positions have intact theses and active trailing stops. NVDA approaching -7% cut level — monitor closely at midday. Patience > activity.
