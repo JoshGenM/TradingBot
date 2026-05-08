@@ -58,3 +58,43 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-05-08 — Morning Research
+
+### Account Snapshot
+- Equity: $103,161.92 | Cash: $27,451.72 | Buying power: $130,613.64 | Daytrade count: 0
+- Capital deployed: $75,710.20 (73.4%) | Week trades placed: 0 | Open positions: 4/5
+
+### Market Context
+- S&P 500 futures: ~flat to -0.09% premarket (ESM26 ~7,377 per CME May 7 close; some sources show ~6,465 — data lag/discrepancy flagged)
+- VIX: 17.08 (down from 17.39 yesterday) — below 20, moderate/constructive
+- Oil (WTI): ~$98.75 (May 6 close); sharp pullback from $109.76 on May 4 — Energy sector selling off hard
+- Top catalysts today: NVDA/Corning multiyear optical connectivity partnership (announced May 7); AVGO near record highs on AI custom silicon; MSFT Q3 earnings beat but capex overhang; Zacks large-cap May picks: MU, CIEN, STX
+- Earnings before open: Small-cap names only (ALXO, AMCX) — no large-cap movers relevant to watchlist
+- **Economic releases today: April NFP + Unemployment Rate at 8:30 AM ET — MAJOR market-moving event**
+- Fed speakers: Hammack & Kashkari (hawkish April FOMC dissenters) speaking today
+- Sector momentum (leading): Energy (+22% YTD) > Materials > Industrials > Consumer Staples; Tech "shifting from leadership" (6M +4.7%); Healthcare weakening
+
+### Held Positions — News Check
+- AMZN: $200B AI capex plan (Feb) still weighing sentiment; AWS +24% YoY; YTD recovery from post-capex lows; at $271.90 (+8.1% unrealized). No fresh negative catalyst. Thesis intact Y
+- AVGO: VMware Cloud Foundation 9.1 launched May 5; 106% AI revenue surge; near record highs; institutional buying (Activest +32.6% stake). At $419.12 (+4.4% unrealized). Thesis intact Y
+- MSFT: Q3 2026 earnings released — beat on revenue but AI capex headwinds; stock testing support near $392 key level; currently $421.10 (+2.4% unrealized). Thesis intact Y but watch $392 support
+- NVDA: Corning partnership announced May 7 — AI data center optical connectivity, equity warrants; Jensen Huang bullish; NVDA earnings May 20, GTC May 31. At $214.00 (+2.2% unrealized). Thesis intact Y — strong upcoming catalysts
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. MU (Micron) — AI/HBM demand, Zacks #1 Rank + Growth Score A, semiconductor AI infrastructure momentum; market cap ~$100B+, price ~$100+, avg vol >20M/day, in uptrend. Entry/stop/target TBD. **GATED: NFP day + Fed speakers = too much macro uncertainty for new entry today. Revisit next week after NFP reaction settles + CPI (May 12) digested.**
+2. CIEN (Ciena) — AI networking buildout catalyst, market cap ~$15B, meets quality filters. **GATED: same reason — NFP risk today.**
+
+### Risk Factors
+- **NFP at 8:30 AM ET is a binary macro event**: strong jobs → rate fears → market down; weak jobs → recession fears → market down; any upside needs soft-landing data
+- Multiple hawkish Fed speakers (Hammack, Kashkari) could amplify rate-hike fears post-NFP
+- CPI (May 12) + PPI (May 13) next week — back-to-back macro prints
+- Tech sector rotation weakening — full tech concentration in portfolio (4/4 positions)
+- WTI pullback from $109→$99 signals demand concerns and/or OPEC+ noise
+- MSFT $392 support level is the key technical level to watch for stop management
+- NVDA earnings May 20 — position will carry earnings risk if thesis intact through then
+
+### Decision
+HOLD — NFP releasing at market open creates unacceptable binary macro risk for new entries. All 4 current positions are profitable, have active 10% trailing stops, and maintain intact theses. Capital at 73.4% deployed (within 70-80% target). No new trades today. Best opportunity is to let current positions run with stop protection and reassess after NFP reaction + CPI next week. MU and CIEN flagged for watchlist. Patience > activity.
