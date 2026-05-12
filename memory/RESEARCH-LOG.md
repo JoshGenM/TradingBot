@@ -31,6 +31,43 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ---
 
+## 2026-05-12 — Morning Research
+
+### Account Snapshot
+- Equity: $102,889.90 | Cash: $27,451.72 | Buying power: $130,341.62 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: Flat/slightly positive premarket (~7,363 recent close); ESM26 -0.03% premarket
+- VIX: ~19.48, down 2.37% — moderately elevated; controlled fear amid earnings-driven rally
+- Oil (WTI/Brent): WTI $98.93–$98.95/bbl, +2.08% — sharply higher; Trump rejected Iran peace proposal, Strait of Hormuz closure risk persists
+- Top catalysts today: AI capex boom narrative (Amazon $200B, Meta $115-135B); NVDA earnings due May 20; AVGO 52-wk high hit May 5; Goldman AI tech revival thesis
+- Earnings before open: Sea Ltd (SE), Qnity Electronics (Q) — no mega-cap earnings today
+- Economic releases today: **April CPI at 8:30 AM ET** — expected 3.80% YoY (vs 3.30% prior); Core CPI MoM expected 0.30% (vs 0.20%). PRIMARY MARKET RISK TODAY.
+- Sector momentum: Energy (+22% YTD) > Materials > Industrials > Consumer Staples >> Technology (lagging, 6M +4.7%); Healthcare weakening; Financials lagging
+
+### Held Positions — News Check
+- AMZN ($266.72, +6.09%): Q1 revenue +17% YoY; $200B 2026 capex on AI/AWS; AWS UBS target raised. Some margin overhang. Thesis intact Y
+- AVGO ($423.12, +5.40%): Hit 52-wk high $431.67 on May 5; AI chip revenue +106% YoY; VMware Cloud Foundation 9.1 launched; Q2 earnings June 3. Thesis intact Y
+- MSFT ($411.27, -0.04%): OpenAI trial ongoing (Nadella testifying); FTC antitrust probe into cloud/AI; regulatory headwinds. Stock flat near entry. Thesis weakening — monitor
+- NVDA ($216.98, +3.60%): Up 1.97% today; Q1 earnings May 20; hyperscaler AI spend $650-725B 2026; China market share ~0% headwind. Thesis intact Y
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- None identified. With CPI at 8:30 AM, sector rotation away from tech, and VIX elevated, no new entry warranted today.
+
+### Risk Factors
+- **CPI today at 8:30 AM ET** — hot print (3.80% expected vs 3.30% prior) could trigger rate spike and tech selloff; binary-adjacent event
+- Oil at $99/bbl — geopolitical risk (US-Iran); Energy surging while portfolio is tech-heavy
+- Tech sector is lagging all major sectors by momentum metrics
+- MSFT regulatory/legal overhang (OpenAI trial, FTC antitrust)
+- NVDA earnings May 20 — binary risk approaching; no action until after report
+- Capital deployment: 73.3% deployed ($75,444/$102,890) — within 70-80% target, no urgency to add
+- 4 of 5 position slots used; could add 1 but no quality setup clears the CPI timing risk today
+
+### Decision
+HOLD — CPI at 8:30 AM ET is a major market mover (expected hot at 3.80% YoY). Entering new tech positions into a potential inflation shock is poor risk/reward. Portfolio at 73.3% deployment is within target range. All 4 existing theses remain intact (MSFT weakest, monitoring). No new trades today.
+
+---
+
 ## 2026-04-20 — Morning Research
 
 ### Account Snapshot
