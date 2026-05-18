@@ -31,6 +31,45 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ---
 
+## 2026-05-18 — Morning Research
+
+### Account Snapshot
+- Equity: $104,072.93 | Cash: $27,451.72 | Buying power: $131,524.65 | Daytrade count: 0
+- Positions: 4 (AMZN, AVGO, MSFT, NVDA) | Deployed: ~73.6% | Trades this week: 0
+
+### Market Context
+- S&P 500 futures: ~7,387 (-0.61%) — negative premarket; Nasdaq retreating ahead of NVDA earnings
+- VIX: ~18.43 (+6.78% from prior day) — moderately elevated; risk-off tone
+- Oil (WTI/Brent): WTI ~$107.26/bbl (+1.75%); Brent ~$111.10/bbl — spiking on Iran war tensions
+- Top catalysts today: Oil price shock (Iran tensions), NVDA earnings Wed May 20 (binary event), FOMC Minutes Wed May 20, sector rotation from tech to Energy
+- Earnings before open: No major S&P 500 names; TCOM, RYAAY are mid-tier; no actionable large-cap pre-market beats
+- Economic releases today: No CPI/PPI this week (both released prior). FOMC Minutes Wed May 20 is main event; Fed speaker Paulson also Wed. PMIs and UMich consumer sentiment mid-week.
+- Sector momentum: Energy (+2.32%) only sector positive; Industrials, Consumer Disc, Materials all negative on the day; rotation from tech underway per Morningstar/Schwab
+
+### Held Positions — News Check
+- AMZN: Q1 2026 revenue +17% YoY ($181.5B), AWS +28%; 2026 capex guided at $200B (vs $146B consensus) — stock sold off on capex shock; consumer class-action lawsuit filed today (tariff pricing). Trailing stop $250.70. Current $262.84 (+4.5% vs entry). Thesis intact (AWS dominance) but capex overhang is near-term headwind. Y
+- AVGO: $2T market cap; up 88% past year, 20% YTD. OpenAI deal hit $18B financing wall — shares slid on news; VMware Cloud Foundation 9.1 launched (AI infra). Stop $398.12. Current $426.48 (+6.2%). AI/data-center thesis intact. Y
+- MSFT: $422, down 13% YTD; OpenAI revenue share capped at $38B (near-term headwind); Bill Gates Foundation sold entire stake; AI backlog $627B, Azure +40%; trades at 26% discount to DCF $570. Stop $385.35. Current $420.36 (+2.2%). Long-term thesis intact but near-term noise elevated. Y (cautious)
+- NVDA: Earnings Wed May 20 (Q1 FY2027); consensus $78B revenue / $1.77 EPS (+78% YoY); market cap $5.47T; Nasdaq retreating ahead of print; Trump-Xi discussed AI guardrails and H200 chips — geopolitical overlay. Stop $212.89 (10% trail, HWM $236.54). Current $227.63 (+8.7%). BINARY EVENT RISK Wed — hold existing position, do NOT add. Y (hold, stop in place)
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- None identified. Energy is only sector showing positive momentum, but: (a) oil spike is geopolitical/macro-driven rather than a clean company catalyst; (b) large-cap energy names (XOM, CVX) lack confirmed uptrend breakout; (c) adding a 5th position on a -0.61% futures / elevated-VIX day with binary events mid-week violates patience discipline.
+- MU (Micron) flagged by Zacks for earnings momentum — pass today; semiconductor sector faces NVDA earnings headwind this week.
+
+### Risk Factors
+- NVDA earnings Wednesday (binary event) — our largest unrealized gain ($1,655); gap-down risk through trailing stop if guidance disappoints
+- FOMC Minutes Wednesday — potential rate-path volatility mid-week
+- Oil at $107/bbl (Iran tensions) — macro uncertainty; stagflation risk if oil stays elevated
+- VIX 18.43 elevated; S&P futures -0.61% — broad market risk-off
+- AMZN capex overhang ($200B vs $146B consensus) — potential drag on tech sentiment
+- MSFT OpenAI revenue cap news — sector headwind for megacap tech
+- Sector rotation from tech to Energy/Industrials — headwinds for all 4 held positions
+
+### Decision
+HOLD — No new trades. Market is risk-off (VIX elevated, futures -0.61%, oil spiking). Two major binary events this week (NVDA earnings + FOMC Minutes both Wednesday). Already 73.6% deployed with 4 quality positions, all with stops in place. Adding a 5th position in this environment would violate patience discipline. No large-cap catalyst with a clean setup found today.
+
+---
+
 ## 2026-04-20 — Morning Research
 
 ### Account Snapshot
