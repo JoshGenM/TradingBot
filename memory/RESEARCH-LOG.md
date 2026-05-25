@@ -58,3 +58,45 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-05-25 — Morning Research
+
+### Account Snapshot
+- Equity: $102,529.95 | Cash: $27,451.72 | Buying power: $129,981.67 | Daytrade count: 0
+- Long market value: $75,078.23 (73.2% deployed) | Phase P&L: +$2,529.95 (+2.53%)
+- Open positions: 4 (AMZN, AVGO, MSFT, NVDA) | Trades this week: 0
+
+### Market Context
+- S&P 500 futures: ~7,537 (+0.61% last available, May 24) — 8th consecutive week on track for gain per market commentary
+- VIX: ~16.70 (May 23 close) — moderate, neutral-to-cautious; down from 20.28 one year ago
+- Oil (WTI/Brent): WTI ~$96.60/bbl, Brent ~$106.52/bbl — elevated vs. historical; energy sector leading
+- Top catalysts this week: Salesforce (CRM) Wed AMC, Dell (DELL) Wed AMC, Costco (COST) Thu AMC; PCE inflation + Q1 GDP Thu
+- Earnings before open: AutoZone (AZO) Tue BMO; ANF, DKS Wed BMO; Dollar Tree (DLTR) Thu BMO
+- Economic releases this week: PPI Thu 5/28 8:30 ET | Initial Claims Thu 5/28 | JOLTS Thu | Fed Cook Wed, Williams/Bowman/Paulson Thu — no FOMC meeting (next: Jun 16-17)
+- Sector momentum: LEADING — Consumer Staples, Industrials, Materials, Energy | LAGGING — Technology, Communications, Consumer Discretionary, Financials | Dorsey Wright: Tech still ranks 2nd by signal count
+- NOTE: US markets CLOSED today — Memorial Day holiday
+
+### Held Positions — News Check
+- AMZN ($266.32, entry $251.42, +5.93%): AWS +20% YoY, Globalstar acquisition (Apr 14), consensus Strong Buy avg PT $284.75; capex $200B headwind. Thesis intact Y. Stop: $250.704 (trailing 10%, HWM $278.56).
+- AVGO ($414.14, entry $401.44, +3.16%): AI revenue +106% YoY, Q2 guidance $22B, LSEG partnership renewal. Stock pulled back from HWM $442.36 (-6.4%). Thesis intact Y. Stop: $398.124 (below entry — if stopped, small loss).
+- MSFT ($418.57, entry $411.45, +1.73%): Q3 FY2026 revenue +18% to $82.9B, Azure +39%. Consolidating $416-424 range. Thesis intact Y. Stop: $389.43 (trailing 10%, HWM $432.70).
+- NVDA ($215.33, entry $209.44, +2.81%): Pulled back from HWM $236.54 to $215.33 (-9%). Stop $212.886 — only 1.1% buffer. Vera Rubin in full production (rev H2 2026). Raymond James Strong Buy $272 PT. Thesis intact Y but STOP PROXIMITY ALERT — may exit Tuesday if any selling pressure.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- NO TRADES TODAY — market closed (Memorial Day)
+- **Tuesday watch (for possible new 5th position):** Sector rotation into Industrials or Consumer Staples. No specific catalyst identified with sufficient conviction pre-research. Revisit Tuesday premarket.
+- SKIP AZO earnings Tuesday — same-day binary event play per rules
+- SKIP CRM/DELL pre-earnings — do not buy into earnings day
+
+### Risk Factors
+- Market closed today — no execution possible
+- NVDA trailing stop at $212.886 only 1.1% below current price ($215.33) — high stop-out probability on any Tuesday weakness
+- AVGO stop below entry ($398.124 vs $401.44 entry) — position could turn to small loss if stopped
+- Multiple Fed speakers Thu could add vol; PPI Thu could drive rate moves
+- Tech sector momentum in "Lagging" quadrant despite our heavy tech exposure (NVDA, MSFT, AVGO, AMZN)
+- Week of earnings catalysts (CRM, DELL, COST) adds market-wide vol risk Wed-Thu
+
+### Decision
+HOLD — Market closed (Memorial Day). No execution today. All 4 positions intact with positive P&L. Key watch for Tuesday open: NVDA stop proximity ($212.886). Monitor all positions at Tuesday open; if NVDA gaps down, stop may trigger automatically. At 73.2% deployed, in-range vs 70-80% target. 0/3 weekly trades used — capacity available if quality setup emerges Tuesday+.
