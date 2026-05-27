@@ -58,3 +58,42 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-05-27 — Morning Research
+
+### Account Snapshot
+- Equity: $102,544.63 | Cash: $46,810.13 | Buying power: $149,354.76 | Daytrade count: 0
+- Deployed: ~54% ($55,734 long) — below 70-80% target; room for 1-2 positions
+- Weekly trades placed: 0/3
+
+### Market Context
+- S&P 500 futures: +0.61–0.67% (ESM26 positive premarket; Robinhood prediction market implies >7325)
+- VIX: ~17.01 spot (moderate/calm; June VIX futures at 18.80 — slight contango)
+- Oil (WTI/Brent): WTI up ~+1.36% intraday; Brent last print ~$96/bbl (geopolitical bid, Iran conflict ongoing)
+- Top catalysts today: NVDA earnings after close (AI/Blackwell demand focus); STX post-earnings momentum; Bloom Energy guidance beat; Seagate JP Morgan Positive Catalyst Watch; broad AI-infra theme intact
+- Earnings before open: DY (Dycom, EPS est $2.72), BBWI (Bath & Body Works, EPS est $0.29), MANU, CPRI — no mega-caps
+- Economic releases today: CPI (MoM/YoY), PPI (MoM/YoY/Core), Initial Jobless Claims, Continuing Claims, JOLTs Job Openings, Fed Williams speech, Fed Hammack speech — HEAVY macro day
+- Sector momentum (12M): IT +52.7% > Comm Services +50.9% > Energy +41.9% > Industrials +35.5% | Healthcare weakest at +5.8%
+- Sector momentum (6M): Energy +30.3% > Materials +17.2% > Industrials +11.4% > Comm Services +10.3%
+
+### Held Positions — News Check
+- AMZN ($266, avg entry $251.42, +5.8%): Q1 beat ($181.5B vs $177.3B est). $200B 2026 capex plan (AI infra) caused initial selloff but recovered. Wall St avg target $284.75. Stop $250.70 (10% trail, HWM $278.56). Thesis intact: Y
+- AVGO ($422, avg entry $401.44, +5.2%): Q2 FY26 earnings scheduled AFTER CLOSE June 3. TSMC capacity bottleneck flagged by mgmt. Consensus Buy, avg target $463.58 (26 analysts). Stop $398.12 (10% trail, HWM $442.36). NOTE: earnings June 3 — review stop management in evening run. Thesis intact: Y
+- MSFT ($414.75, avg entry $411.45, +0.8%): Q3 FY26 strong: 18% rev growth to $82.9B, Azure +39%. AI spending narrative weighs but fundamentals solid. Stop $389.43 (10% trail, HWM $432.70). Thesis intact: Y
+
+### Trade Ideas Evaluated (all quality filters applied)
+1. NVDA — AI demand/Blackwell ramp, mega-cap, analyst avg target ~$304. **AUTO-SKIP: Same-day earnings after close = binary event rule violation. No entry on earnings day.**
+2. STX (Seagate) — Q3 FY26 earnings beat ($3.11B rev, EPS $4.10 vs ~$2.72 est), JP Morgan Positive Catalyst Watch 4/16, market cap ~$192B. **SKIP: Already up ~78% from $468 (4/7) to $831 (5/26) in 7 weeks. Beta 2.17. Extended, poor R:R for new entry. Short interest unknown. Chasing a run.**
+3. META — Comm Services sector leader (leading 12M momentum), $1.5T market cap, SI 1.6 days-to-cover (very low), AI product flow (Muse Spark). **SKIP: No fresh same-day catalyst today. Earnings were 4/29 (Q1), next ~July. Heavy macro data day (CPI+PPI+jobs) creates unpredictable entry risk. Patience > activity.**
+
+### Risk Factors
+- CPI + PPI + Jobless Claims + JOLTs + 2 Fed speakers = heaviest single-day macro slate of the week; market could whipsaw either direction post-data
+- AVGO earnings June 3 (1 week) — trailing stop at $398.12 well below; review if to reduce or hold into earnings
+- Iran conflict ongoing — oil elevated at ~$96, geopolitical tail risk
+- FOMC holding at 3.5–3.75%; market pricing ~225bps of cuts in 2026 — rate path uncertainty persists
+- Capital deployed at 54% (below 70-80% target) — acknowledge gap, but forcing entry on macro day without catalyst is not the answer
+
+### Decision
+HOLD — No fresh same-day catalyst for any candidate. Macro data day (CPI+PPI+jobs+Fed speakers) makes new entry risk/reward unfavorable. All 3 existing positions are profitable with trailing stops intact. Watch AVGO into June 3 earnings. Revisit META or other Comm Services / Tech names tomorrow after today's data is digested. Patience > activity.
