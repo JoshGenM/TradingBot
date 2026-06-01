@@ -58,3 +58,42 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-06-01 — Morning Research
+
+### Account Snapshot
+- Equity: $105,687.75 | Cash: $27,905.13 | Buying power: $133,592.88 | Daytrade count: 0
+- Positions: 4 (AMZN, AVGO, GEV, MSFT) | Weekly trades placed: 0
+
+### Market Context
+- S&P 500 futures: ESM26 ~+0.20% premarket; market ~7,600-7,650 range (21 consecutive record closes through May 29)
+- VIX: ~15.32 (down from 15.74 prior close) — calm, no stress signal; well below year-ago 19.18
+- Oil (WTI/Brent): WTI ~$89.97/bbl (+2.76% today), Brent ~$93.48/bbl — meaningful oil surge
+- Top catalysts today: MU (AI memory/DRAM demand surge, highlighted by multiple analysts); HPE and CRDO report after close; AVGO Q2 earnings Wednesday June 3 after close (140% AI revenue growth expected)
+- Earnings before open: None confirmed pre-market today; HPE/CRDO after close
+- Economic releases today: S&P Global Manufacturing PMI Final; Fed speakers: Waller, Kashkari, Hammack, Barr, Daly (5 speakers — elevated policy noise risk)
+- Sector momentum (6M trailing): Energy (35.3%) > IT (18.7%) > Materials (13.6%) > Industrials (13.1%) > Real Estate (10.1%) > Staples (9.9%) > Comm Services (9.0%) > Cons Disc (4.3%) > Utilities (2.3%) > Financials (-1.0%) > Healthcare (-4.5%)
+
+### Held Positions — News Check
+- AMZN (+7.4%): Q1 beat — 17% rev growth to $181.5B, AWS +28% YoY; Prime Day moving to June (Q2 retail catalyst). Trailing stop $250.70 (HWM $278.56). Thesis intact Y
+- AVGO (+13.7%): Q2 earnings June 3 after close — consensus $22.1B rev, 140% AI revenue growth expected; strong pre-earnings run to $456. Trailing stop $403.99 (HWM $448.88). ⚠️ Binary event Wednesday — no adds. Thesis intact Y, monitor for post-earnings reaction
+- GEV (-3.0%): Q1 beat Apr 22, raised guidance to $44.5-45.5B, Moderate Buy consensus (22 buys). $0.50 quarterly dividend declared. ⚠️ Stop was MISSING — placed 10% trailing stop today (stop $869.51, HWM $966.12). -3% from entry $995, not at -7% cut level. Thesis intact Y
+- MSFT (+12.4%): Q3 FY26 $82.9B rev (+18%), strong Azure/M365 cloud growth; $0.91 dividend payable June 11. Trailing stop $405.30 (HWM $450.33). Thesis intact Y
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. MU (Micron Technology) — WATCHLIST, not trading today. AI memory/DRAM demand surge; market cap ~$100B+; avg vol >20M/day; IT sector momentum strong (18.7% 6M). Would add 4th tech position (overconcentration risk given AVGO earnings Wed). Revisit after AVGO earnings reaction clears.
+2. Energy name — WATCHLIST. Energy sector leading (35.3% 6M momentum), WTI +2.76% today. No current energy exposure. Candidates: XOM, CVX, OXY. Need to verify uptrend and short interest before acting. Prefer entering post-NFP (Fri June 5) when macro direction is clearer.
+
+### Risk Factors
+- AVGO earnings Wednesday June 3 — binary event; could trigger broad tech sector reaction (3 of 4 positions in tech)
+- 5 Fed speakers today (Waller, Kashkari, Hammack, Barr, Daly) — elevated policy noise, potential intraday volatility
+- NFP Friday June 5 — major market mover; holding through could be choppy
+- CPI June 10, FOMC June 16-17 — inflation/rate uncertainty continues
+- S&P at 21 all-time highs with breadth lagging — momentum may be fading per TradingView Reuters note
+- Oil surge (+2.76%) may signal inflation persistence — hawkish Fed risk
+- GEV at -3% — underperforming; monitor for -7% cut level
+
+### Decision
+HOLD — No new trades today. 4/5 positions at 73.6% deployed (within 70-80% target). Key risks against adding: (1) AVGO earnings Wed creates binary tech event in portfolio — avoid adding more tech concentration; (2) 5 Fed speakers today add noise; (3) NFP Friday + CPI June 10 ahead — patience warranted. Maintenance action completed: GEV trailing stop placed. Watchlist: MU (post-AVGO earnings), energy name (post-NFP).
