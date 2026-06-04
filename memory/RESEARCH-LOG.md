@@ -58,3 +58,41 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-06-04 — Morning Research
+
+### Account Snapshot
+- Equity: $101,054.27 | Cash: $46,451.57 | Buying power: $295,011.68 | Daytrade count: 0
+- Open positions: AVGO (50 shares, avg $401.44, current $418.75, +4.3% unrealized), GEV (19 shares, avg $995, current $956.68, -3.85%), MSFT (36 shares, avg $411.45, current $430.23, +4.6%)
+- Trades this week: GEV (June 1) + AVGO (June 2) = 2 of 3 max. 1 slot remaining.
+
+### Market Context
+- S&P 500 futures: ~7,545 (-0.35%) — mildly negative premarket
+- VIX: 16.06 (calm; below long-term avg of 18.55; up 1.84% from prior day)
+- Oil (WTI/Brent): WTI ~$95.15, Brent ~$96.58 — down 0.9% today, -6.96% past month (OPEC supply pressure)
+- Top catalysts today: MPC (strong earnings-beat momentum, 129% EPS surprise), ANET (analyst consensus #1.09), MSFT (Copilot enterprise expansion, Mayo Clinic AI deal). Lululemon (LULU) BMO today — not in our universe.
+- Earnings before open: Ciena (CIEN), Lululemon (LULU) — neither triggers new position interest
+- Economic releases today: Initial Jobless Claims 8:30 AM ET, Challenger Job Cuts, Fed Barkin speech. **Employment Situation (May jobs) is TOMORROW June 5 — major macro event.**
+- Sector momentum: Consumer Staples > Industrials > Materials > Energy leading; **Technology, Comm Services, Consumer Disc, Financials lagging**
+
+### Held Positions — News Check
+- AVGO: **CRITICAL** — Q2 FY2026 earnings reported June 3 post-close. Pre-market price $418.75 vs prior close $479.23 = -12.6% gap down. Trailing stop GTC at $470.25 (5% trail from HWM $495) will auto-trigger at market open. Exit is automatic. Thesis broken by post-earnings reaction. Unrealized P&L at stop: ~+$865 (stop at ~$470 vs avg entry $401.44). Still profitable exit.
+- GEV: Q1 2026 strong — $18.3B single-quarter orders, free cash flow > all of 2025. BofA projects +44% order growth 2026. Dividend increased, $10B buyback. Trailing stop $892.764 (10% trail, HWM $991.96). Price $956.68 well above stop. **Thesis intact — Y**
+- MSFT: Copilot 365 rolled to Accenture's 743K employees (major enterprise deal). Mayo Clinic AI partnership. Azure growth on track. Analyst consensus 1.23. Trailing stop $419.688 (10% trail, HWM $466.32). Price $430.23 well above stop. Down ~$11 from prior close but no thesis change. **Thesis intact — Y**
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. WATCH ONLY — MPC (Marathon Petroleum): EPS surprise 129%, strong earnings momentum, Energy sector. But WTI oil down 6.96% past month; sector leadership fading. Skip today, revisit if oil stabilizes.
+2. WATCH ONLY — ANET (Arista Networks): strongest analyst consensus (1.09), AI networking tailwind. But Technology sector lagging this week; tech headwinds real. No new tech exposure while MSFT already held and tech lagging.
+3. No actionable trade today — no large-cap name with clear catalyst + aligned sector momentum + clean entry.
+
+### Risk Factors
+- **Employment Situation (May jobs) tomorrow June 5** — significant macro event, potential for market gap/volatility. Do not add exposure today.
+- AVGO gap-down exit will reduce equity ~$2,000-3,000 depending on fill (stop may gap through $470.25; execution price will be near $418-425 open)
+- Tech sector in confirmed short-term downtrend (Technology sector lagging ranking)
+- Oil prices declining — Energy sector leadership may be fading
+- S&P futures mildly negative; no broad market tailwind
+
+### Decision
+HOLD — No new trades. AVGO trailing stop auto-fires at open (GTC order in place, no action needed). GEV and MSFT theses intact; stops in place. Save 1 remaining weekly trade slot for a cleaner setup post-May-jobs-data (Friday June 5). Patience > activity.
