@@ -58,3 +58,40 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ### Decision
 HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fresh. Revisit GILD Monday premarket: confirm short interest <25%, price above 50-day MA, and check if thesis holds after Warsh testimony. Best first trade needs a cleaner entry setup with sector momentum aligned.
+
+---
+
+## 2026-06-05 — Morning Research
+
+### Account Snapshot
+- Equity: $100,440.51 | Cash: $66,901.55 | Buying power: $334,684.11 (4x margin) | Daytrade count: 0
+- Deployed: $33,538.96 (33.4%) — below 70-80% target
+- Weekly trade count: 1 (GEV opened June 1) — 2 remaining
+
+### Market Context
+- S&P 500 futures: ~7,545–7,563 (-0.35% premarket) — slight weakness
+- VIX: ~15.4–16.1 — calm, below historical median (17.6); no fear in the market
+- Oil (WTI/Brent): WTI ~$95.96/bbl, Brent ~$98.29/bbl — elevated; supportive for Energy sector
+- Top catalysts today: Marvell Technology (Morningstar fair-value raise post-strong results); tech AI/cloud theme (MSFT, META, AMZN); large-cap momentum in Energy and Industrials; no major large-cap earnings today
+- Earnings before open: G-III Apparel (GIII) — small-cap apparel, does not meet quality filter; no meaningful large-cap pre-market earnings today
+- Economic releases today: **May Employment Situation (Jobs Report) at 8:30 AM ET** — major macro event; FOMC next meeting June 16-17; no CPI/PPI today; Fed Logan and Fed Daly speaking today
+- Sector momentum: Leading: Energy, Industrials, Materials, Consumer Staples | Improving: Real Estate, Utilities | Weakening: Healthcare | Lagging: Technology, Communications, Consumer Discretionary, Financials
+
+### Held Positions — News Check
+- GEV: Q1 2026 — $5B FCF, raised revenue guidance $44.5–45.5B, new India contract (28 GE Vernova turbines to Powerica Ltd, June 4), Q3 dividend declared $0.50/share, analyst consensus target $1,090.76 (+14% from current). Current $952.43, entry $995, unrealized -$808 (-4.3%). Sector: Industrials (Leading). Thesis intact — Y. Stop at $892.76.
+- MSFT: FY Q2 2026 — Cloud revenue >$50B/qtr, $12.7B returned to shareholders (+32% YoY), Copilot/AI monetization accelerating, M365 pricing updates rolling out June-July 2026, Azure Fabric GPU updates. Current $428.97, entry $411.45, unrealized +$631 (+4.3%). Sector: Technology (Lagging). Thesis intact — Y (stock-specific AI/cloud thesis overrides sector headwind). Stop at $419.69.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. WATCHLIST ONLY — CVX (Chevron): Catalyst: Energy sector leading momentum, WTI ~$96/bbl (elevated, supportive). Market cap ~$280B, price ~$165, avg vol ~12M/day. Uptrend likely (Energy +35% trailing 6mo). Entry/stop/target: not evaluated today due to Jobs Report risk. Note for midday if market digests jobs data constructively.
+2. WATCHLIST ONLY — CAT (Caterpillar): Catalyst: Industrials sector leading, infrastructure/energy capex cycle. Market cap ~$185B, avg vol ~3M/day. Not evaluated today for same reason.
+
+### Risk Factors
+- **May Jobs Report at 8:30 AM ET** — major macro binary event at market open; hot jobs = higher rates risk; cold jobs = recession fear; either print can gap-move indices ±1%
+- Entering new positions at open into jobs data violates risk discipline (unpredictable binary outcome)
+- GEV down -4.3% from entry — not yet at -7% cut threshold, but worth watching if macro sell-off accelerates
+- Tech sector lagging in momentum rotation (MSFT held on stock-specific thesis, not sector)
+- Oil at ~$96/bbl could signal inflationary pressures; complicates Fed path
+- S&P futures slightly negative premarket
+
+### Decision
+HOLD — Jobs Report at 8:30 AM ET is a market-wide binary event; initiating new positions at open into that data violates discipline. Both existing positions have intact theses. GEV at -4.3% (above -7% cut threshold) with stop well-placed at $892.76. MSFT at +4.3% with stop protecting most upside. No new trades today. Reassess at midday once jobs data is digested and sector reaction is clear. CVX and CAT flagged on watchlist if Industrials/Energy hold leadership after the print.
