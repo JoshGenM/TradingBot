@@ -92,3 +92,36 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-09 — Morning Research
+
+### Account Snapshot
+- Equity: $99,789.37 | Cash: $81,999.10 | Buying power: $377,809.16 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: 7,434.25 (+0.25%) — mildly positive open
+- VIX: ~18.92 (declining from 21.51 spike on June 5) — still elevated, cautious sentiment
+- Oil (WTI/Brent): WTI ~$90–91/bbl | Brent ~$97.66 — slight pullback (-1.3% on day)
+- Top catalysts today: No major large-cap BMO earnings; MPC refining margin strength (Q1 $1.65 EPS vs $0.75 consensus, +120% beat) already priced in after +60% YTD run; Industrials/Materials/Consumer Staples sector rotation ongoing
+- Earnings before open: SJM (JM Smucker), SAIL (SailPoint), UEC (Uranium Energy), UNFI, ASO — no mega-cap names; ASO and SJM are earnings-day entries (prohibited by rules)
+- Economic releases today: None. CPI Wed 6/10 08:30 CT; PPI Thu 6/11 08:30 CT; FOMC Jun 16–17
+- Sector momentum: Consumer Staples > Industrials > Materials > Energy (leading) | Technology, Comms, Consumer Disc, Financials (lagging/weak)
+
+### Held Positions — News Check
+- GEV: Current price $936.33 (+0.26% premarket), up from $933.85 yesterday. Q1 2026: orders +71%, revenue +16%, raised 2026 guidance to revenue $44.5–45.5B and FCF $6.5–7.5B; Gas Power backlog 100 GW (target 110 GW by YE). Analyst consensus Buy, target ~$1,091. Unrealized: -$1,114.73 (-5.90%). Trailing stop $892.76 GTC. Thesis intact: YES. -7% cut trigger = $925.35 — not triggered.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. MPC (Marathon Petroleum) — Refining margin catalyst strong (Q1 $1.65 EPS vs $0.75 consensus), Energy sector top-momentum, mkt cap ~$73B, avg vol ~2.27M/day, uptrend (up 60% YTD), short interest ~2%. PASS — analyst consensus targets $265–268 vs current ~$266; near 52-week high; fair value est. ~$245; R:R <1:1; no incremental catalyst today. Fails minimum 2:1 R:R requirement.
+2. HON / RTX / LMT (Industrials/Defense) — Buy-rated large-caps in top-momentum sector. Watch list only — no specific near-term catalyst or fresh analyst upgrade identified today; CPI Wednesday risk makes new Industrials exposure premature given existing GEV position.
+
+### Risk Factors
+- CPI report Wednesday 6/10 — major macro event; entering new positions today means holding through unknown inflation data
+- VIX still elevated (~18.92); above historical median of 17.61
+- GEV at -5.90% — improving but within 1.1% of -7% cut rule ($925.35 trigger)
+- FOMC June 16–17 — rate decision 1 week away; market will remain sensitive to inflation prints
+- Oil pullback (-1.3%) could weigh on Energy names
+
+### Decision
+HOLD — No new trades. VIX declining but still elevated; CPI Wednesday too close for fresh entries. GEV recovering ($936.33, -5.90%), thesis intact, trailing stop GTC in place. -7% cut line = $925.35; monitor intraday. MPC fails R:R test (consensus target at current price). Post-CPI reassessment Wednesday — if inflation benign, consider adding HON or second Industrials position with cleaner setup.
