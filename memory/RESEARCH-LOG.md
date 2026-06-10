@@ -61,6 +61,41 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ---
 
+## 2026-06-10 — Morning Research
+
+### Account Snapshot
+- Equity: $98,936.52 | Cash: $98,936.52 (100%) | Buying power: $98,936.52 | Daytrade count: 0
+- GEV trailing stop triggered overnight/pre-open; position closed ~$891.44. Total loss: -$1,967.58 (-10.4%).
+
+### Market Context
+- S&P 500 futures: ~7,360–7,376 (-0.22% to -0.36%) — slightly negative premarket ahead of CPI
+- VIX: ~19–20 (down from 21.51 spike on June 5; moderate caution, not extreme fear)
+- Oil (WTI/Brent): WTI ~$88.8 | Brent ~$92 — elevated due to fresh Middle East hostilities
+- Top catalysts today: Defense (LMT — $194B backlog, defense supercycle narrative); AI/semis (MRVL fair value raised to $235); Energy (XOM Middle East tailwind but below 50-day MA — fail)
+- Earnings before open: None significant (ORCL reports AFTER close today — no buy per binary-event rule)
+- Economic releases today: **CPI for May 2026 at 8:30 AM CT** — dominant event; FOMC June 16–17 next week
+- Sector momentum (trailing): Energy > Info Tech > Communication Services > Industrials; Financials weakest
+
+### Held Positions — News Check
+- None (GEV stopped out)
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. **LMT** — Catalyst: defense supercycle, $194B backlog, EPS growth narrative. Market cap ~$120B. Price ~$523. Avg vol ~1.3M/day. BUT: analyst consensus is HOLD (7 Buy / 12 Hold / 1 Sell), price target $595 — well off 52-wk high $692; no specific fresh catalyst today; 50-day MA status uncertain but price down significantly from highs. Marginal setup — insufficient conviction for entry.
+2. **XOM** — Energy tailwind, oil at $88.8. DISQUALIFIED: price ~$150 below 50-day MA of ~$153–$154 (downtrend filter fails). Skip.
+3. **ORCL** — Reports earnings after close tonight. DISQUALIFIED: same-day earnings play. Skip. Monitor tomorrow if beat.
+
+### Risk Factors
+- **CPI at 8:30 AM** is the dominant binary macro event — hot print = rate fears, potential selloff; cool print = relief rally. Entry before knowing CPI result is speculative.
+- VIX still elevated at 19–20 (above comfortable 16–17 range)
+- FOMC June 16–17 next week adds further uncertainty to rate-sensitive equities
+- S&P futures already negative pre-CPI (-0.3%) suggesting market is cautious
+- GEV stop-out creates clean slate but no high-conviction replacement setup ready
+
+### Decision
+HOLD — No trades. CPI at 8:30 AM today is a macro binary event; entering before the number is speculative. Wait for CPI read and market reaction. If data is favorable and a high-quality setup emerges post-print (tomorrow's pre-market), re-evaluate. Patience > activity.
+
+---
+
 ## 2026-06-08 — Morning Research
 
 ### Account Snapshot
