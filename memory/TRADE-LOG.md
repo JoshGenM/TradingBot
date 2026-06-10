@@ -30,3 +30,13 @@
 | GEV | 19 | $995.00 | $933.20 | -$1,174.20 (-6.21%) | $892.76 trail GTC |
 
 **Notes:** GEV approaching -7% cut rule ($925.35). Thesis intact (raised guidance, analyst Buy consensus ~$1,091, Industrials top momentum). Monitor intraday — cut if closes below $925.35. No new trades today: VIX 21.51 elevated, CPI Wednesday. HOLD.
+
+---
+
+## 2026-06-10 — Stop-Out: GEV
+
+| Ticker | Shares | Entry | Exit | P&L | P&L% |
+|--------|--------|-------|------|-----|------|
+| GEV | 19 | $995.00 | ~$891.44 | -$1,967.58 | -10.4% |
+
+**Notes:** Trailing stop (10% GTC) triggered between June 8–10 as GEV continued lower. Stop order filled ~$891.44. Position closed automatically. Account now 100% cash: $98,936.52. Daytrade count: 0. Week trades placed (Jun 8–12): 0.
