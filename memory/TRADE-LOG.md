@@ -30,3 +30,25 @@
 | GEV | 19 | $995.00 | $933.20 | -$1,174.20 (-6.21%) | $892.76 trail GTC |
 
 **Notes:** GEV approaching -7% cut rule ($925.35). Thesis intact (raised guidance, analyst Buy consensus ~$1,091, Industrials top momentum). Monitor intraday — cut if closes below $925.35. No new trades today: VIX 21.51 elevated, CPI Wednesday. HOLD.
+
+---
+
+## 2026-06-12 — GEV Stop-Out (Trailing Stop Triggered)
+
+| Ticker | Shares | Entry | Exit | P&L | Notes |
+|--------|--------|-------|------|-----|-------|
+| GEV | 19 | $995.00 | ~$891.44 | -$1,968 (-10.4%) | 10% trailing GTC stop triggered; HWM $991.96, stop $892.76, execution ~$891.44 |
+
+**Notes:** GEV declined from $933.20 (June 8 close) to stop-out ~$891.44. -7% manual cut rule ($925.35) was the correct exit signal but trailing stop served as backstop. Thesis broken on price action; Industrials momentum could not overcome macro headwinds (hot CPI 4.2%, elevated VIX). Lesson: act on -7% cut rule proactively rather than relying solely on trailing stop.
+
+---
+
+## 2026-06-12 — Morning Snapshot
+
+**Portfolio:** $98,936.52 | **Cash:** $98,936.52 (100%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Price | Unrealized P&L | Stop |
+|--------|--------|-------|-------|----------------|------|
+| — | — | — | — | — | — |
+
+**Notes:** Clean slate. No positions. GEV stopped out. FOMC decision day (June 11-12 meeting) — hold all new trades. CPI 4.2% YoY (3-yr high, energy-driven), VIX 22.22 (+12% from yesterday). Wait for post-Fed clarity before next entry.
