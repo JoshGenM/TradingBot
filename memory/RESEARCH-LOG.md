@@ -92,3 +92,43 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-12 — Morning Research
+
+### Account Snapshot
+- Equity: $98,936.52 | Cash: $98,936.52 | Buying power: $395,746.08 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,397–7,421 (flat to slightly positive premarket)
+- VIX: 22.22 (+11.83% from 19.87 yesterday) — elevated and rising; cautious sentiment
+- Oil (WTI/Brent): WTI ~$86.18 (-1.66% today, -14.61% past month) | Brent ~$92.42
+- Top catalysts today: FOMC rate decision + SEP released today (June 11-12 meeting concludes); no major large-cap BMO earnings
+- Earnings before open: No significant large-cap reports
+- Economic releases today: Employer Costs (10:00 AM ET, minor); CPI released Wed 6/10 (+4.2% YoY, 3-yr high); PPI released Thu 6/11
+- Sector momentum (6M trailing): Energy +35.3% > IT +18.7% > Materials +13.6% > Industrials +13.1% > Real Estate +10.1% > Comm Services +9.0% > Consumer Staples +9.9% > Consumer Disc +4.3% > Utilities +2.3% > Financials -1.0% > Healthcare -4.5%
+
+### Key Macro Context
+- May 2026 CPI: +4.2% YoY (up from 3.8% in April; 3-year high); energy +23.5% YoY driven by US-Iran war supply shock; core +2.9% YoY
+- FOMC today: Expected hold at 3.5–3.75%; statement + SEP released this afternoon — hawkish tilt likely given re-accelerating inflation; one cut projected for 2026
+- VIX spike: 19.87 → 22.22 (+12%) = market pricing in FOMC uncertainty post-hot CPI
+
+### Held Positions — News Check
+- None (GEV stopped out via 10% trailing GTC stop between 6/8–6/12, exit ~$891.44; see TRADE-LOG)
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- None for today — FOMC day is a binary macro event; no new entries warranted
+- Post-FOMC watchlist for Monday 6/15:
+  1. XOM/CVX/EOG — Energy sector top momentum (+35.3% 6M); wait for post-Fed reaction and oil price stabilization; confirm uptrend + catalyst before entry
+  2. NVDA/MSFT — IT sector second-strongest (+18.7% 6M); large-cap AI tailwind intact; entry only if Fed statement benign and VIX pulls back below 18
+
+### Risk Factors
+- FOMC statement today: hot CPI may prompt hawkish SEP dot plot; "higher for longer" language could pressure equities
+- VIX at 22.22 and rising — unfavorable entry conditions
+- WTI down 14.61% past month despite Energy sector top momentum — sector leadership may be based on lagged returns; oil weakening today
+- US-Iran war: ongoing geopolitical risk, supply shock could reverse or escalate unpredictably
+- Week of 6/16 has another FOMC-driven repositioning risk as market digests statement
+
+### Decision
+HOLD — FOMC decision day = binary macro event (no new trades per strategy rules). VIX 22+ rising. No clear single-stock catalyst that overrides macro risk. Await Fed clarity. Reassess Monday 6/15 premarket. Weekly trade count: 0 of 3 used.
