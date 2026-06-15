@@ -92,3 +92,37 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-15 — Morning Research
+
+### Account Snapshot
+- Equity: $98,936.52 | Cash: $98,936.52 | Buying power: $395,746.08 | Daytrade count: 0
+- Note: GEV position stopped out between Jun 8–12 (trailing stop triggered ~$892.76)
+
+### Market Context
+- S&P 500 futures: ~7,436 (+0.51% premarket) — firmer tone, extending Thursday/Friday rally
+- VIX: ~17.68–19.44 (declining from 22.22 on Jun 5) — moderate, improving risk sentiment
+- Oil (WTI): ~$84.88/bbl
+- Top catalysts today: Dell (AI server backlog $51B, Dell World 2026 drove +24% surge); MRVL (analyst fair value raised to $235, new highs in semiconductors); STX (84% projected EPS growth)
+- Earnings before open: None noteworthy
+- Economic releases today: Industrial Production & Capacity Utilization at 9:15 AM ET (light); FOMC meeting begins June 16–17 (rate decision Wednesday — expected hold at 3.5–3.75%); CPI and PPI already released last week (Jun 10–11)
+- Sector momentum (SPDR scorecard): Energy 1.99 > IT 0.55 > Comm Services 0.37 > Industrials 0.18 > Real Estate 0.14 > Materials 0.08 > Utilities -0.24 > Consumer Staples -0.34 > Cons Disc -0.56 > Financials -0.93 > Healthcare -1.26
+
+### Held Positions — News Check
+- None (all cash)
+
+### Trade Ideas (large/mid-cap only — all quality filters must pass)
+1. DELL — Dell Technologies; catalyst: $51B AI server backlog, Dell World 2026 AI announcements drove +24% surge; analyst consensus $431.22 (moderate buy), high target $550; market cap $256B ✓; price ~$400–420 ✓; avg vol >5M/day ✓; above 50-day MA (strong uptrend from ~$320) ✓; IT sector momentum #2 (+0.55) ✓; short interest 5–6% ✓; entry ~$420, stop $378 (10% trail GTC), manual cut -7% ~$391, target $490 (+16.7%), R:R 2.4:1 (using -7% cut rule)
+2. MRVL — Skipped: data inconsistency on price/consensus targets (some sources show consensus below current price — insufficient confidence)
+3. Energy sector: No specific catalyst for individual names today — pass
+
+### Risk Factors
+- FOMC June 16–17 (decision Wednesday): hold expected but may create mid-week volatility
+- VIX still elevated relative to long-term average; declining trend encouraging but not low
+- GEV (Industrials) was 1 failed trade — Industrials sector not banned (rule: 2 consecutive failures required)
+- DELL pulled back ~15% from ATH $466 post-Dell World — may see continued consolidation; use trailing stop discipline
+
+### Decision
+TRADE — DELL. Clear AI infrastructure catalyst ($51B backlog), IT sector #2 momentum, large-cap quality, R:R 2.4:1 using -7% cut rule. Sizing: 46 shares (~20% of equity) to stay within position limit with buffer. Will HOLD rest as cash through FOMC Wed — do not add second position until after rate decision.
