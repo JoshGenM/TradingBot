@@ -30,3 +30,15 @@
 | GEV | 19 | $995.00 | $933.20 | -$1,174.20 (-6.21%) | $892.76 trail GTC |
 
 **Notes:** GEV approaching -7% cut rule ($925.35). Thesis intact (raised guidance, analyst Buy consensus ~$1,091, Industrials top momentum). Monitor intraday — cut if closes below $925.35. No new trades today: VIX 21.51 elevated, CPI Wednesday. HOLD.
+
+---
+
+## 2026-06-16 — Morning Audit + Stop Placement
+
+**Portfolio:** $99,191.81 | **Cash:** $80,292.71 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Price | Unrealized P&L | Stop |
+|--------|--------|-------|-------|----------------|------|
+| DELL | 46 | $405.30 | $410.85 | +$255.30 (+1.37%) | $369.315 trail 10% GTC ✓ |
+
+**Notes:** GEV closed between June 8–16 (exact date/price not logged — to reconcile). DELL position discovered live; no trailing stop was in place. Placed 10% GTC trailing stop today (order ID 1224263b, stop $369.315, HWM $410.35). DELL thesis intact: Dell Tech World 2026 AI Factory at 5,000 customers; IT sector #2 momentum. No new trades: FOMC rate decision tomorrow (June 17).

@@ -92,3 +92,37 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-16 — Morning Research
+
+### Account Snapshot
+- Equity: $99,191.81 | Cash: $80,292.71 | Buying power: $374,088.32 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,524.75 (+1.21%) — bullish premarket
+- VIX: ~17.68, down from 19.44 prior day — moderating; cautious but constructive sentiment
+- Oil (WTI/Brent): WTI July futures down ~5% Monday; Brent ~$94/barrel (as of June 10 data)
+- Top catalysts today: AI/data-center buildout theme (ORCL, DELL, PWR); Quanta +3.51% on June 12 on $48.5B backlog; Oracle AI/cloud narrative; Dell Tech World 2026 AI announcements
+- Earnings before open: None — no large-cap BMO reports today
+- Economic releases today: ADP Employment Change, Building Permits; Fed Goolsbee speech; FOMC Day 1 of 2-day meeting (rate decision + Economic Projections TOMORROW June 17)
+- Sector momentum (6-month trailing): Energy +35.3% > IT +18.7% > Materials +13.6% > Industrials +13.1% > Real Estate +10.1% > Consumer Staples +9.9% > Comm Services +9.0% > Consumer Disc +4.3% > Utilities +2.3% > Financials -1.0% > Health Care -4.5%
+
+### Held Positions — News Check
+- DELL (46 shares @ $405.30 avg, current $410.85, +1.37% / +$255.30): Dell Technologies World 2026 AI announcements (AI Factory at 5,000 enterprise customers), new XPS 13 launch today ($599/$699), $3B senior notes offering closing today (mild leverage headwind), Rule 144 insider Class C share sales filed (minor bearish signal). IT sector #2 momentum. Thesis intact: YES. CRITICAL ACTION: No trailing stop was in place — placed 10% GTC trailing stop today (order 1224263b, stop $369.315, HWM $410.35).
+- GEV: No longer live (position closed between June 8–16; unlogged — to reconcile in evening run).
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- PWR (Quanta Services): $735 current vs. $733.87 analyst avg consensus target — already AT consensus, R:R insufficient. Aroon entered downward trend June 10. Skip.
+- ORCL (Oracle): Strong AI catalyst (JP Morgan $400 target, Stargate buildout). Recent -10% price drop; recovery trajectory unclear ahead of FOMC. Skip today.
+- XOM/CVX (Energy): Sector #1 momentum but WTI down ~5% Monday — oil price headwind contradicts sector thesis short-term. Skip.
+
+### Risk Factors
+- FOMC rate decision TOMORROW (June 17) — single largest near-term macro binary; new entries today carry elevated risk
+- GEV closure unlogged in TRADE-LOG — portfolio history gap; to reconcile in evening run
+- DELL $3B senior notes closing today adds leverage (minor headwind)
+- WTI oil weakness may cap Energy sector outperformance
+
+### Decision
+HOLD — No new positions. FOMC Day 2 rate decision tomorrow is the overriding gate. Patience > activity. DELL thesis intact, 10% trailing stop now in place. Revisit new ideas Wednesday after FOMC clarity.
