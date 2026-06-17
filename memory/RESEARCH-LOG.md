@@ -92,3 +92,38 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-17 — Morning Research
+
+### Account Snapshot
+- Equity: $99,152.71 | Cash: $80,292.71 | Buying power: $373,978.84 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,563 (near flat, +0.02%) — calm premarket
+- VIX: 16.20 (-1.22%) — significant improvement from 21.51 on June 8; moderate risk appetite
+- Oil (WTI/Brent): WTI ~$75.5/bbl | Brent ~$80.1/bbl — well off early-June highs (~$92-94)
+- Top catalysts today: NVIDIA (AI demand strong, 85% YoY rev growth cited), Oracle (accelerated data center buildout), Apple (Gemini/Siri AI rollout); tech sector up ~16% prior month despite "lagging" momentum quadrant
+- Earnings before open: LZB (La-Z-Boy), PGR (Progressive), JBL (Jabil), KMX (CarMax) — none actionable (same-day earnings = binary event rule)
+- Economic releases today: **FOMC rate decision 2:00 PM ET** (hold expected at 3.50%-3.75%), press conference 2:30 PM ET; retail sales AM — key market-moving event
+- Sector momentum: Leading: Consumer Staples, Industrials, Materials, Energy | Improving: Real Estate, Utilities | Weakening: Healthcare | Lagging: Technology, Comm Services, Consumer Discretionary, Financials
+
+### Held Positions — News Check
+- DELL: Q1 FY2027 earnings already released May 28. Today announced consistent quarterly dividend $0.63/share (July 31 payable). AI server/data center demand thesis intact. Price $410 (+1.16% from $405.30 entry), up from $404.08 prior close. Trailing stop 10% GTC, HWM $421.82, stop at $379.64. No negative news. Thesis intact: **Y**
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- No actionable setups today.
+  - JBL, PGR, KMX, LZB: reporting earnings today — binary event rule, skip.
+  - Tech (NVDA, ORCL, AAPL): sector in "lagging" momentum quadrant despite strong AI narrative; FOMC day uncertainty makes new tech entries too risky.
+  - Industrials/Energy: no specific catalyst today that clears the full buy-side gate.
+
+### Risk Factors
+- **FOMC at 2:00 PM ET today** — even an "expected" hold can cause volatility on dot plot, projections, or press conference language
+- Tech is lagging in momentum rankings despite AI theme — mixed signal for DELL thesis (AI server) vs. PC/enterprise softness
+- DELL pre-market bid showing extended-hours illiquidity ($389 bid in thin after-hours); regular session price $410
+- VIX has compressed from 21.51 → 16.2 — if FOMC is hawkish surprise, spike possible
+- Weekly trade count: 1 of 3 used (DELL, June 16); 2 remaining slots available
+
+### Decision
+HOLD — FOMC decision at 2 PM ET creates binary risk for new entries. DELL thesis intact; existing trailing stop GTC provides downside. No high-conviction catalysts in top-momentum sectors. Post-FOMC clarity tomorrow before considering second position.
