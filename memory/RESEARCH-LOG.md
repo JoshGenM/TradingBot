@@ -92,3 +92,35 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-18 — Morning Research
+
+### Account Snapshot
+- Equity: $100,109.78 | Cash: $80,292.71 | Buying power: $376,658.63 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,556.75, +0.85% — positive premarket momentum
+- VIX: ~16.41–17.10, down ~7.3% from prior close (18.44) — moderate, improving sentiment
+- Oil (WTI/Brent): WTI ~$74.82–$75.00 | Brent ~$79.72 (WTI down 2.56% today, down 28% past month — Energy weakening)
+- Top catalysts today: AI/tech sector rotation — NVDA ($5T+ mcap, analyst consensus $298–$306, ~45% upside), MSFT, AMZN; MRVL fair value raised to $235 (custom compute growth); large-cap tech leading June 2026
+- Earnings before open: ACN (Accenture) BMO — skip per same-day earnings rule
+- Economic releases today: Initial jobless claims + Philly Fed Manufacturing Index at 8:30 AM ET; Conference Board Leading Index at 10:00 AM ET. FOMC held rates at 3.50%–3.75% yesterday (Jun 17) — "hawkish hold," signaled higher rates possible
+- Sector momentum (6-mo): Energy +35.3% > IT +18.7% > Materials +13.6% > Industrials +13.1% > RE > Consumer Staples > Comm Services > Consumer Disc > Utilities > Financials -1.0% > Healthcare -4.5%
+
+### Held Positions — News Check
+- DELL: Dell Tech World 2026 (May 18–21) showcased AI-ready infrastructure, autonomous AI, data center modernization — AI/enterprise server demand thesis intact. Silver Lake Form 144 filed for potential share sales (minor overhang, not unusual). CFO presenting at investor conference. Current ~$430.81 (+6.29% from $405.30 entry). Trailing stop 10% GTC, HWM $431.76, stop at $388.58. Thesis intact: YES
+
+### Trade Ideas (large/mid-cap only — all quality filters must pass)
+1. NVDA — AI accelerator dominance (H100/B200 demand still strong per Q2 guidance), market cap ~$5T+, price ~$207–215, avg vol >50M/day, above 50-day MA per June data, analyst consensus $298–306 (45%+ upside). Entry ~$210, stop ~$189 (-10%), target ~$260 (analyst midpoint), R:R ~2.4:1. CAVEAT: FOMC hawkish hold is headwind for high-multiple tech; jobless claims at open creates volatility risk. Watchlist — revisit Thursday if macro absorbs cleanly.
+2. ACN (Accenture) — skip, earnings day.
+
+### Risk Factors
+- FOMC "hawkish hold" Jun 17: rates held at 3.50%–3.75%, higher-rates-possible signal — headwind for growth/tech valuations
+- Jobless claims + Philly Fed at 8:30 AM ET (market open) — first macro print post-FOMC, could spike volatility
+- Oil down 28% past month — possible economic slowdown signal, watch Energy sector fade
+- DELL Silver Lake insider selling overhang (minor, ~Form 144 only)
+
+### Decision
+HOLD — No new trades. FOMC hawkish hold and macro data releases at open warrant patience. DELL +6.29%: thesis intact, trailing stop protecting gains. NVDA is highest-conviction watchlist candidate — revisit Thursday/Friday if market absorbs FOMC and claims data cleanly, VIX continues lower, and price holds above $207. 2 trade slots remain this week.
