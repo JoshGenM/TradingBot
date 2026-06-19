@@ -92,3 +92,40 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-19 — Morning Research
+
+### Account Snapshot
+- Equity: $99,129.71 | Cash: $80,292.71 | Buying power: $373,914.44 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: +0.84% at 7,487 premarket (as of Thu June 18 close; market CLOSED today — Juneteenth holiday)
+- VIX: ~17.0 (declined from 21.5 spike earlier this month; moderate/manageable)
+- Oil (WTI/Brent): WTI $75.99 | Brent $79.17 (sharply lower from $90+ war-time highs; US-Iran peace deal / Strait of Hormuz reopened)
+- Top catalysts: AI infrastructure demand dominant (NVDA, MSFT, AMZN); FOMC June 16–17 hawkish hold — half of committee projects rate hike this year; Warsh: "some work to do on price stability"
+- Earnings before open: None (market closed — Juneteenth; Nasdaq shows no reports)
+- Economic releases today: None (federal holiday)
+- Sector momentum: Leading — Industrials, Materials, Energy, Consumer Staples | Improving — Real Estate, Utilities | Weakening — Healthcare | Lagging — Tech, Comm Services, Consumer Disc, Financials
+
+### Held Positions — News Check
+- DELL: June 18 close $409.50 (-2.34% on day), AH $412.14 (+$2.64). Day range $407.88–$436.00. HWM $436, trailing stop active at $392.40 (10% GTC). Unrealized +$193.20 (+1.04% from $405.30 avg entry). AI data platform launch noted; AI infrastructure demand intact. Thesis: YES.
+
+### Trade Ideas (large/mid-cap only — all quality filters must pass)
+- No new trades today — market CLOSED (Juneteenth)
+- Monday June 22 watchlist candidates:
+  1. Energy sector (XLE leading momentum, WTI stabilized at $76) — need specific large-cap name with clear catalyst; watch PSX/MPC/COP Monday premarket
+  2. Industrials (top momentum) — already hold DELL adjacent; GEV exited; scan for new setup
+- Technology (NVDA, MSFT): sector lagging on momentum map — skip despite AI thesis
+- Healthcare: Weakening — skip
+
+### Risk Factors
+- FOMC hawkish hold: 9 of 19 members project rate hike this year; inflation CPI 4.2% / PCE 3.8% (far above 2% target)
+- Persistent energy-driven inflation from Iran conflict aftermath (even with oil normalizing)
+- PCE report due June 25 — potential market mover
+- DELL trailing stop at $392.40 (10% from HWM $436); position exits on close below
+- 1 trade placed this week (DELL, June 16); 2 remaining capacity this week
+
+### Decision
+HOLD — Market closed today (Juneteenth). No execution possible. DELL thesis intact; trailing stop active. Monitor Monday for Industrials/Energy catalyst setups. Hawkish Fed tone + elevated inflation warrant measured entry — only trade with clear catalyst + sector momentum alignment. Default stance: patience > activity.
