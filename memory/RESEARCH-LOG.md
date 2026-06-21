@@ -31,6 +31,44 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ---
 
+## 2026-05-15 — Morning Research
+
+### Account Snapshot
+- Equity: $103,831.80 | Cash: $27,451.72 | Buying power: $131,283.52 | Daytrade count: 0
+- Long market value: $76,380.08 | 4 open positions | 0 trades placed this week
+
+### Market Context
+- S&P 500 futures: ESM26 +0.31% premarket; S&P 500 up 6 consecutive weeks, hitting record highs
+- VIX: 17.87 (down from 17.99 prev day) — moderate, drifting lower; constructive sentiment
+- Oil (WTI/Brent): WTI ~$101–102/barrel (prediction market range); breaking above short-term descending trend line (bullish signal)
+- Top catalysts today: AI/tech momentum broadly; no single large-cap catalyst — AI chip deal narrative (AVGO/NVDA) remains dominant theme; market broadening beyond mega-cap tech per JPM
+- Earnings before open: No large-cap reports today; small/micro-cap only (SGML, GEMI, AIRJ, etc. — all excluded by quality filter)
+- Economic releases today: **NFP (April Employment Situation) at 8:30 AM ET** — major market-moving event; Fed held rates at 3.50–3.75% at Apr 29 meeting citing elevated inflation; 3 FOMC dissenters cited rising inflation risk; CPI released Tue (0.6% M/M expected vs 0.9% prior), PPI Wed, Retail Sales + Jobless Claims Thu all released this week
+- Sector momentum: Tech/AI leading; market up 6 straight weeks; some sectors described as "vulnerable" ahead of May 15 (Investing.com); Zacks momentum names May 14: LITE, ONTO, TPR — none meet quality/catalyst bar for new entry
+
+### Held Positions — News Check
+- AMZN ($262.37, entry $251.42, +4.4%, -1.82% today): Q1 beat Apr 29 — net sales +17% YoY; AI returning $15B/quarter; France €15B investment; analyst avg target ~$285, Strong Buy consensus. Thesis intact: Y
+- AVGO ($428.19, entry $401.44, +6.7%, -2.64% today): Multi-year AI chip deals with Google and Anthropic (Apr 10); Q1 revenue $19.3B +29%, AI sales 2x; Q2 earnings date June 3 (not a near-term binary risk today); BofA + analysts positive. Thesis intact: Y. Monitor stop ahead of June 3 earnings.
+- MSFT ($405.75, entry $411.45, -1.4%, -0.90% today): ⚠️ NEGATIVE HEADLINE — Reports OpenAI has capped Microsoft's revenue share at $38B and MSFT is no longer sole cloud infrastructure provider; stock risks drop below $400 per technical analysis; Copilot adoption growing (20M paid users) but AI monetization concerns linger. Thesis weakened — original AI/cloud momentum thesis still partially intact but material overhang added. Stop at $385.18. Flag for evening run: evaluate if thesis broken.
+- NVDA ($230.20, entry $209.44, +9.9%, -2.35% today): Strong momentum — BofA raised PT to $320 (AI data center TAM $1.7T); SoftBank AI server partnership; near ATH territory. ⚠️ EARNINGS MAY 20 (5 days) — approaching binary event window. At +9.9%, approaching range where stop tightening rules apply (+15% = tighten to 7%; +20% = tighten to 5%). Stop at $212.89. Flag for evening run: decide hold-through-earnings vs. pre-earnings exit.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. NONE — No qualifying new entry today. No large-cap catalyst identified in today's research that passes full buy-side gate. Portfolio already concentrated in tech (4/4 positions). NFP data at 8:30 AM ET adds macro uncertainty for new entries. Patience > activity.
+
+### Risk Factors
+- NFP release at 8:30 AM ET — market could move sharply on strong/weak jobs data
+- All 4 held positions down today (market-wide pullback from recent record levels)
+- MSFT thesis impaired by OpenAI revenue share cap; holding but monitoring
+- NVDA earnings May 20 — "sell-the-news" risk on extended position
+- Portfolio fully concentrated in tech/megacap — no diversification hedge
+- S&P 500 up 6 consecutive weeks — technically extended; mean reversion risk
+- Fed on hold, inflation still elevated above target — rate-cut timeline uncertain
+
+### Decision
+HOLD — No new trades. NFP uncertainty, tech concentration at max, no documented large-cap catalyst for new entry. MSFT and NVDA require evening attention (thesis check and earnings decision). Stops all active and GTc. Patience > activity.
+
+---
+
 ## 2026-04-20 — Morning Research
 
 ### Account Snapshot
