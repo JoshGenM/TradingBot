@@ -31,6 +31,44 @@ TRADE or HOLD (default HOLD — only trade with a clear edge and documented cata
 
 ---
 
+## 2026-05-21 — Morning Research
+
+### Account Snapshot
+- Equity: $103,519.38 | Cash: $27,451.72 | Buying power: $130,971.10 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,450 (flat/modestly positive vs prior close of 7,428)
+- VIX: 18.06 (+1.35%) — moderately calm, neutral-to-cautious sentiment
+- Oil (WTI/Brent): WTI ~$98.84, Brent ~$104.92 — elevated; potential inflation pressure
+- Top catalysts today: NVDA blowout Q1 earnings (revenue $81.6B, $80B buyback, dividend hike to $0.25/quarter); Philly Fed manufacturing 26.7 (well above 19 consensus); Housing starts +10.8% MoM; "Nvidia and Trump boost market sentiment" per morning wrap
+- Earnings before open: WMT ($0.66 EPS est.), WSM ($1.81), RL ($2.55), WMS ($0.95) — all same-day binary event → pass on entry
+- Economic releases today: Initial claims 211K (vs 210K est. — slight miss); Philly Fed 26.7 (strong beat); Housing starts +10.8%; Building permits 1.363M; FOMC minutes release tonight (potential volatility)
+- Sector momentum: Leading — Consumer Staples, Energy, Industrials, Materials; Weakening — Healthcare; Lagging — Technology, Comm Services, Consumer Discretionary, Financials
+
+### Held Positions — News Check
+- AMZN ($266.20, +5.88% unrealized): Q1 net sales +17% YoY; stock up ~0.81% today; some capex-overhang sentiment ($200B capex plan); core AWS/retail thesis intact. **Intact: Y**
+- AVGO ($419.58, +4.52% unrealized): Record Q1 FY26 revenue $19.3B (+29% YoY); AI semi revenue guidance $10.7B for Q2 (+140% YoY); Google partnership extended to 2031; Goldman $500 PT, TD Cowen raised to $500; $10B buyback added. **Intact: Y — strongest conviction hold**
+- MSFT ($418.70, +1.76% unrealized): Azure +39%, cloud RPO +28%, EPS beat; near-term pressure from AI capex intensity and ROI skepticism; down slightly today (-0.56%). Tech sector in "lagging" quadrant. **Intact: Y — monitor capex narrative**
+- NVDA ($223.26, +6.60% unrealized): Blowout Q1 — revenue $81.6B, $80B share buyback, dividend raised to $0.25/quarter; Stifel PT raised to $282; stock absorbing post-earnings. **Intact: Y — very strong**
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. WMT — earnings reported today before open → FAIL: same-day earnings binary event rule
+2. No qualifying Industrials/Consumer Staples catalyst identified with clean entry setup today
+3. NVDA add — cannot add; at 19.6% of equity, already at 20% position cap; also post-earnings gap-up entry risk
+- **Net: No new trade passes the full buy-side gate today**
+
+### Risk Factors
+- All 4 holdings are tech/consumer discretionary; both sectors in "lagging" momentum quadrant — concentrated exposure
+- FOMC minutes tonight → potential intraday volatility spike
+- Oil elevated near $99 WTI — inflation signal could weigh on rate-cut expectations
+- NVDA trailing stop at $212.89 (HWM $236.54, ~10% trail) — confirm not too close given post-earnings strength
+- MSFT stop at $389.43 (HWM $432.70) — adequate buffer
+
+### Decision
+**HOLD** — 4 profitable positions with fully intact theses. NVDA earnings blowout is a strong positive for the portfolio. No new trade qualifies today: WMT fails (earnings day), no other large-cap catalyst with clean setup and sector alignment. FOMC minutes tonight add volatility risk. Patience > activity.
+
+---
+
 ## 2026-04-20 — Morning Research
 
 ### Account Snapshot
