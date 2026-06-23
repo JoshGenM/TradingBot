@@ -92,3 +92,36 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-23 — Morning Research
+
+### Account Snapshot
+- Equity: $98,619.11 | Cash: $80,292.71 | Buying power: $372,484.76 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,549.50 (-0.28%) — slight premarket decline
+- VIX: 17.28 (up +2.98% from 16.78; below 20 — manageable, risk-on environment)
+- Oil (WTI/Brent): WTI ~$73–75/barrel (-2.5% intraday); falling sharply on US-Iran peace deal / Strait of Hormuz reopening
+- Top catalysts today: US-Iran preliminary peace deal signed (Trump, June 22 night) — risk-on, oil deflation, eases inflation fears. AI/tech momentum continues dominant. No specific large-cap upgrades today. NVDA thesis intact ($3–4T AI demand by 2030, 94% buy).
+- Earnings before open: FedEx (FDX) — binary event SKIP; Carnival (CCL) — binary event SKIP; Cerebras (CBRS); KB Home (KBH)
+- Economic releases today: None. FOMC June 17 — hawkish hold at 3.50–3.75%; half of committee projecting hike later in 2026. Core PCE 3.3%, inflation elevated. Next data mid-July.
+- Sector momentum (Q2 2026): Technology +45.5% (#1) | Energy +50% 12-mo (#2) | Industrials +13.1% | Materials +13.6% | Health Care -4.5% (weak) | Financials -1.0% (weak)
+
+### Held Positions — News Check
+- DELL (46 shares @ $405.30): Pre-mkt price ~$398.40, below trailing stop $399.60 (10% from HWM $444). AI server thesis VERY intact — Q1 FY27 guidance $140B total revenue / $50B AI revenue (+103% YoY); $43B backlog; 760% YoY AI server growth. June 25 shareholder vote on TX redomiciliation. Silver Lake sold minor stake at $420–$431 (minor concern). RSI exited overbought June 5. Trailing stop will trigger at open if price ≤ $399.60. Thesis intact: YES — but stop protects us per rules; do not override.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+1. NVDA (NVIDIA Corp) — Catalyst: AI infrastructure dominant secular trend; $3–4T annual demand forecast by 2030; no near-term binary event (next earnings ~Aug 2026); market cap $5.1T; price ~$208–210; avg vol ~100M+/day; above 52-wk low $142 (uptrend intact); 94% buy consensus (67 analysts); avg target $298.87 (+43% upside); P/E 32x. Entry ~$208–210, stop 10% trailing GTC (~$187–189), target $298.87 (+43%), R:R ~4.3:1. Short interest negligible (<1% on $5T company). Not binary event. Passes all quality filters.
+
+### Risk Factors
+- DELL trailing stop likely triggers at open — position reduction to 0 or 1 if NVDA entered
+- FOMC hawkish: 50% probability of rate hike in 2026 — headwind for growth stocks long-term
+- S&P futures slightly negative (-0.28%); NVDA down -1.1% after-hours
+- Oil deflation on Iran deal may drag Energy sector; benefit to tech/consumer
+- Iran peace deal already partially priced in (S&P +1.08% Thursday post-deal)
+- Core PCE 3.3% — inflation risk to valuation multiples
+
+### Decision
+TRADE — Enter NVDA. AI infrastructure is the strongest secular trend in the market (Tech sector +45.5% Q2). NVDA is the dominant play with defined risk (10% trailing stop), 94% analyst buy consensus, R:R 4.3:1. VIX at 17 is manageable. Slight negative premarket may provide better entry than gap-up. Gate: max 20% of equity = ~$19,724 → 93 shares at ~$210.
