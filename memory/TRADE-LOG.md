@@ -30,3 +30,20 @@
 | GEV | 19 | $995.00 | $933.20 | -$1,174.20 (-6.21%) | $892.76 trail GTC |
 
 **Notes:** GEV approaching -7% cut rule ($925.35). Thesis intact (raised guidance, analyst Buy consensus ~$1,091, Industrials top momentum). Monitor intraday — cut if closes below $925.35. No new trades today: VIX 21.51 elevated, CPI Wednesday. HOLD.
+
+---
+
+## 2026-06-24 — NVDA Position Reconstruction + Stop Placement
+
+**Note:** GEV position was closed between 6/8 and 6/24 (uncommitted session). NVDA was entered in an uncommitted session; reconstructed from live account state.
+
+| Ticker | Shares | Avg Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-----------|---------|----------------|------|
+| NVDA | 93 | $200.72 | $200.04 | +$67.58 (+0.36%) | $181.26 trail 10% GTC |
+
+**Trailing Stop Placed 2026-06-24:** NVDA 93 shares — 10% trailing stop GTC placed (order ID: 6d8c8b7c). HWM $201.40, current stop $181.26. Was missing from account; placed immediately per strategy rules.
+
+**Position cost:** $18,667.27 (19.0% of $98,524.58 equity — within 20% limit)
+**Thesis:** AI/data center compute demand; no slowdown in NVDA GPU demand from hyperscalers (Google, OpenAI, Anthropic). Long-term uptrend intact. Short-term consolidation near entry.
+**Target:** ~$253 (Morningstar/consensus fair value ~13% upside)
+**No new trades today:** S&P -1.26% premarket, Nasdaq -2.47%, VIX 19.49 elevated. HOLD.
