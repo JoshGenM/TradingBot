@@ -92,3 +92,39 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-25 — Morning Research
+
+### Account Snapshot
+- Equity: $98,531.56 | Cash: $79,789.73 | Buying power: $371,636.03 | Daytrade count: 0
+- Open positions: 1 (NVDA — 93sh @ $200.72 avg, +0.4%)
+- Weekly trades used: 1 of 3 (NVDA entered June 24)
+
+### Market Context
+- S&P 500 futures: ~7,464 (+0.46%) — positive premarket, risk-on tone
+- VIX: ~18.63 (declining from 19.49 June 23 and 21.51 peak — improving)
+- Oil (WTI/Brent): WTI ~$69–73 | Brent ~$79.25 — falling on US-Iran Strait of Hormuz diplomacy progress
+- Top catalysts today: Micron (MU) Q3 FY2026 blowout earnings post-close June 24 — EPS $25.11 vs $20.49 est (+23%), revenue $41.5B vs $35.69B est (+16%). Confirms AI memory demand thesis. Positive spillover for AI/semiconductor ecosystem.
+- Earnings before open: Darden Restaurants (DRI) +1.36% beat; McCormick (MKCv) +0.90% beat — neither actionable (not in momentum sectors)
+- Economic releases today: None. Next CPI July 14. FOMC July 1–2. May CPI was 4.2% YoY (in-line; "higher for longer" expected).
+- Sector momentum (Q2 2026): Technology +45.5% #1 | Energy +35.3% | Industrials +13.1% | Materials +13.6% | Health Care -4.5% (weak) | Financials -1.0% (weak) | Utilities -5.2% (bearish)
+
+### Held Positions — News Check
+- NVDA: MU blowout earnings confirm AI chip demand — positive thesis echo. Jensen Huang called recent tech selloff "buying opportunity"; says AI buildout is "just begun." NVDA best-ever quarter ($81.6B rev, +85% YoY). Trailing stop $181.50 (10% GTC, HWM $201.67). **Thesis: INTACT.**
+
+### Trade Ideas (large/mid-cap only — all quality filters must pass)
+1. MU (post-earnings play) — PASS. MU closed $1,048 June 24 after -13% selloff June 23 on AI valuation fears. Massive beat barely moved stock: after-hours peaked ~$1,164, pulled back to premarket ~$1,076 (+2.5% from close). Sell-the-news dynamics; too volatile and muted for clean entry. Not a clearly bullish setup.
+2. PWR (Quanta Services) — Monitoring. AI data center infrastructure + grid buildout catalyst; 30% earnings growth est 2026. After-hours spread too wide ($652/$734) to evaluate today. No specific near-term catalyst. Skip today.
+3. Other — No high-conviction large-cap setups. Health Care and Financials in weak momentum. Energy facing oil price headwind (WTI declining on Iran diplomacy).
+
+### Risk Factors
+- VIX still moderately elevated at ~18-19; AI/chip valuation concerns sparked June 23 selloff
+- CPI at 4.2% YoY (elevated); FOMC July 1-2 expected "higher for longer"
+- MU muted post-earnings reaction = caution flag for broader AI sector sentiment at current valuations
+- Goldman Sachs flags narrow market breadth as cautionary signal
+- Oil declining — Energy sector headwind
+
+### Decision
+HOLD — No new trades. NVDA thesis intact with 10% trailing stop protection. MU's muted reaction to a massive earnings beat is a yellow flag for AI sector risk appetite. VIX improving but not fully clear. Patience > activity — wait for higher-conviction second-position setup.
