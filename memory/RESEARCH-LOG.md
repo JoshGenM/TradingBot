@@ -92,3 +92,43 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-26 — Morning Research
+
+### Account Snapshot
+- Equity: $97,788.95 | Cash: $79,789.73 | Buying power: $369,556.74 | Daytrade count: 0
+- Note: GEV no longer held (closed between 6/8 and now, trade log gap); NVDA added ~6/23-24 (stop order created 6/24)
+
+### Market Context
+- S&P 500 futures: 7,369 (-0.73%) — negative premarket; caution warranted
+- VIX: 18.89 (+1.40% from prior day) — moderate, slight uptick in anxiety; not alarm level
+- Oil (WTI/Brent): WTI ~$70.47–$71.44 | Brent ~$74–$79 — down sharply from $91+ on 6/8 due to US-Iran diplomatic progress and potential Strait of Hormuz reopening
+- Top catalysts today: No major large-cap BMO earnings. AI infrastructure demand (NVDA, ORCL data center build, MRVL fair value raised to $235). MU surged ~55% on earnings. LLY FDA approval (Foundayo oral GLP-1). Micron H200 chip shipment to China.
+- Earnings before open: No meaningful large-cap reports. Small caps only: NJDCY, ASOMY, ANIX, MAYS, CRMT.
+- Economic releases today: Chicago PMI 62.7 (beat 61 est. — expansionary, positive); JOLTS 7.618M at 2PM CT; Fed Balance Sheet; Fed Goolsbee speech 5:30PM CT (after close). No CPI/PPI/Jobs — next CPI July 14, Jobs July 2.
+- Sector momentum: LEADING — Energy (+22% YTD), Consumer Staples, Industrials, Materials | LAGGING — Technology, Financials, Consumer Discretionary, Comm Services | WEAKENING — Healthcare | IMPROVING — Real Estate, Utilities
+- Macro backdrop: FOMC hawkish hold at 3.5–3.75% (June 16–17). Half of FOMC projecting rate hikes this year. May CPI 4.2% YoY (elevated vs. 2% target). Strong jobs. Rate hike risk before year-end elevated.
+
+### Held Positions — News Check
+- NVDA: 93 shares @ $200.72 avg. Last price $195.74 (6/25 close), bid $195.83. Unrealized P&L ~-$468 (-2.4%). Trailing stop GTC 10%, HWM $201.67, stop at $181.50. -7% cut threshold: $186.67. CEO Jensen Huang (6/8): "Selloff is a buying opportunity; AI buildout has just begun." H200 chip shipment to China underway — analysts see 15-20% upside to projections. Dan Ives base case $250 by EOY. P/E 33.03, EPS $6.52. Tech sector is LAGGING in 2026 (sector headwind). Fundamental thesis intact; sector is a headwind. Monitor intraday — cut if closes/trades below $186.67. Thesis intact: YES (but sector is unfavorable).
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- No high-conviction setups today.
+- Energy (XLE): Sector is leading, but WTI dropped to $70-71 on Iran diplomatic progress — individual energy stocks face oil price headwind today. No specific catalyst.
+- LLY (Eli Lilly): Foundayo FDA approval catalyst, $460B+ market cap, but Healthcare sector is WEAKENING. Skip until sector turns.
+- ORCL (Oracle): Data center AI catalyst, strong bookings. Technology sector LAGGING. Skip.
+- MU (Micron): Surged 55% — parabolic; extended, not a fresh entry. Technology sector lagging. Skip.
+- Consumer Staples: Defensive, but low upside potential and S&P down premarket — no clear individual catalyst.
+
+### Risk Factors
+- S&P futures -0.73% premarket — not a favorable entry day
+- Technology sector lagging — NVDA faces sector headwind
+- Hawkish Fed, May CPI at 4.2% (well above 2% target), rate hike risk before year-end
+- NVDA at -2.4% from entry, could pressure toward -7% cut threshold on a down day
+- Oil declining sharply (Iran deal progress) — Energy sector leaders may face intraday pressure
+- End of week / month-end positioning may add volatility
+
+### Decision
+HOLD — No new trades. S&P futures negative premarket, no high-conviction large-cap catalysts in leading sectors. NVDA thesis intact but tech sector lagging; trailing stop at $181.50 protects against major downside. Monitor NVDA intraday — cut immediately if it trades at or below $186.67 (7% from entry). Patience > activity.
