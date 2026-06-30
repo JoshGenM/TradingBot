@@ -92,3 +92,38 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-06-30 — Morning Research
+
+### Account Snapshot
+- Equity: $97,952.63 | Cash: $79,789.73 | Buying power: $370,015.04 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,497.50 (-0.04%) — essentially flat premarket
+- VIX: 17.65 (down from 18.41 prev close) — moderate, below 20; acceptably calm
+- Oil (WTI/Brent): WTI ~$70.71/barrel | Brent ~$96.42 (June 1 benchmark; WTI July contract near $70)
+- Top catalysts today: AI data center demand remains primary theme; Tech sector +47.3% 12-mo (Schwab "Most Favored"). Marvell FV raised to $235 (Morningstar). Quanta Services (PWR) flagged: Zacks Strong Buy, ~30% adj. earnings growth in 2026, AI energy infrastructure. No large-cap BMO earnings beats in our target universe.
+- Earnings before open: DRI, SNX, AYI, CMC, WGO, NNOX — none in our large-cap tech/industrials target universe. Nike (NKE) and Constellation Brands (STZ) afterhours.
+- Economic releases today: **CPI (MoM) + PPI (MoM) at 7:30 AM CT** (major macro risk — headline CPI ~6% annualized expected). Fed Chair Warsh Testimony at 9:00 AM CT. Fed Williams + Goolsbee speeches later. Jobs report Thursday.
+- Sector momentum (Schwab, Jun 2026): Information Technology (Most Favored, +47.3% 12-mo, +21.1% 6-mo) | Energy (Most Favored, +24.4% 12-mo) | Industrials (Most Favored, +28.8% 12-mo) | Consumer Discretionary, Health Care (Less Favored, negative 6-mo)
+
+### Held Positions — News Check
+- NVDA: Closed June 29 at $192.00 (-4.48% that day), opened June 30 premarket ~$193.85. Down from May high of ~$215.66; -18.5% off mid-May highs. Avg entry $200.72 → unrealized ~-3.3%. Jensen Huang called June selloff a "buying opportunity"; AI demand intact; no fundamental change. Q2 earnings upcoming — will NOT enter new shares on earnings day. Thesis: intact. Stop at $181.50 GTC (10% trail from HWM $201.67). HOLD.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- PWR (Quanta Services): AI energy infrastructure, Industrials (Most Favored), ~30% adj. EPS growth 2026, Zacks Strong Buy, up ~65% YTD — PASS today: CPI/PPI release at open creates binary macro risk; stock is extended (+65% YTD); no confirmed live quote to validate entry. Revisit after CPI clarity.
+- MSFT / AMZN / META: All in Tech (Most Favored), fair value upside 5–9% — PASS: moderate upside, CPI risk at open, prefer not to add broad tech on macro event day.
+- No high-conviction setups pass all gates today given macro risk at open.
+
+### Risk Factors
+- **CPI + PPI data at 7:30 AM CT today** — if inflation prints hot (~6% annualized), tech selloff likely at open
+- Fed Chair Warsh testimony 9:00 AM CT — hawkish pivot risk (dot plot shifted to "one hike" from "one cut")
+- NVDA at -3.3% unrealized; approaching but well above -7% cut rule ($186.67)
+- NVDA trailing stop at $181.50 — 6.6% below current ~$194.80 premarket; adequate cushion
+- Macro: Core PCE 3.3%, Fed holding at 3.50-3.75%, 9 of 19 FOMC members see rate hike in 2026
+- Weekly trade count: 0 of 3 used (new week); 2 total positions allowed before reaching 3-position cap
+
+### Decision
+HOLD — No new trades. CPI + PPI data at market open today are a binary macro event: a hot print could trigger a tech selloff with no clean exit. NVDA thesis intact; trailing stop GTC in place. Patience > activity. Revisit PWR and other Industrials/Tech entries once CPI data is digested and market establishes direction.
