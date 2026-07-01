@@ -92,3 +92,41 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-07-01 — Morning Research
+
+### Account Snapshot
+- Equity: $98,216.75 | Cash: $79,789.73 | Buying power: $370,754.58 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: 7,545.50, -0.04% (essentially flat, mild risk-off tone)
+- VIX: ~17.45 (down from 17.65 yesterday; 52-wk range 13.38–35.30); cautiously risk-on, dip buyers growing more comfortable
+- Oil (WTI/Brent): WTI ~$69.37/bbl; Brent ~$96 (June 1 benchmark — recent WTI data shows decline from $73.58 one month ago)
+- Top catalysts today: MU (Micron) posted blowout Q earnings — shares +15% on 85% gross margin, $2.2B backlog (but Tech sector in LAGGING quadrant); ORCL accelerated AI data center buildout; GOOGL Gemini integration in Apple Siri; NKE earnings this week (binary-event risk, options pricing 7%+ move); DAL record bookings and raised guidance
+- Earnings before open: GIS (General Mills), FDS (FactSet), MSM, UNF, FIZZ — no major large-cap tech BMO
+- Economic releases today: JOLTs Job Openings 2:00 PM ET (7.594M expected vs 7.30M prior); Chicago PMI 1:45 PM ET (56.7 vs 58.1); House Price Index 1:00 PM ET; Fed Chair Warsh speaking (policy risk); No CPI/PPI/FOMC today (CPI next Jul 15, FOMC Jul 28–29)
+- Sector momentum: LEADING — Energy (XLE +21.7% 6-mo), Industrials (XLI +15.5%), Materials (XLB +12.7%), Consumer Staples (XLP +8.2%) | WEAKENING — Healthcare (XLV -3.4% 6-mo) | IMPROVING — Real Estate, Utilities | LAGGING — Technology (XLK +21.1% 6-mo but momentum cooling), Communications, Consumer Discretionary (-2.8%), Financials (-2.7%)
+
+### Held Positions — News Check
+- NVDA: Q1 FY2027 revenue $81.6B (+85% YoY), data center $75.2B (+92%), EPS $1.87 vs $1.76 consensus. Gross margins ~70%. Strong Buy consensus (38 analysts), avg PT ~$275. Current price ~$196–200 (prev close $200.09, premarket ~$197); unrealized P&L ~-1.3% from $200.72 entry. Trailing stop GTC at $181.50 (10% trail, HWM $201.67). Technology sector in LAGGING quadrant but AI infrastructure fundamentals remain very strong. Above -7% cut threshold ($186.67). Thesis intact: YES.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- No high-conviction setups in LEADING sectors (Energy, Industrials, Materials, Consumer Staples) with a specific datable catalyst today.
+- MU: Blowout earnings but Technology is in LAGGING sector quadrant — skip per sector momentum rule.
+- GIS: Reporting BMO today — same-day binary event, skip.
+- NKE: Earnings week, binary event risk, Consumer Discretionary in LAGGING quadrant — skip.
+- DAL: Record bookings / raised guidance positive, but Consumer Discretionary is LAGGING — skip.
+- ORCL: Data center buildout catalyst, but Technology sector LAGGING — skip.
+- Energy sector (XLE leading): No specific single-stock catalyst with clear near-term entry signal today.
+
+### Risk Factors
+- Fed Chair Warsh speaking today — potential policy noise
+- JOLTs Job Openings at 2 PM ET could move market
+- Technology sector in LAGGING momentum quadrant — NVDA position exposed to sector headwind
+- NVDA premarket ~$197, slightly below $200.72 entry; stop is $181.50 (10% trail) — position protected
+- No CPI/PPI/FOMC near-term; next macro event of size is July 15 CPI
+
+### Decision
+HOLD — No new trades. No high-conviction setups in leading sectors with a clear specific catalyst today. Strategy rule: patience > activity. NVDA thesis intact; trailing stop GTC at $181.50 provides downside protection. Monitor JOLTs (2 PM) and Warsh remarks for intraday directional signal. Will reassess tomorrow.
