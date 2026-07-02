@@ -92,3 +92,45 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-07-02 — Morning Research
+
+### Account Snapshot
+- Equity: $98,026.10 | Cash: $79,789.73 | Buying power: $370,220.76 | Daytrade count: 0
+- Open positions: NVDA 93 shares @ $200.72 avg | Current ~$196-198 | Unrealized P&L: -$426.70 (-2.29%)
+- Open orders: NVDA trailing stop GTC 10% | HWM $201.67 | Stop $181.50
+- Weeks trades placed: 0 (week of June 30–July 4)
+
+### Market Context
+- S&P 500 futures: ~7,554 (+0.14-0.15%) — mildly positive; cautious tone into Warsh remarks
+- VIX: 16.45 (down -6.80% from prior day) — low volatility, risk-on environment
+- Oil (WTI/Brent): WTI ~$67.79-67.88 (-1.02-1.15%), falling to 4.25-month low; Brent data unavailable
+- Top catalysts today: MU (Micron) record Q quarter (+350% YoY rev, 85% gross margin, raised guidance — AI HBM demand); META ($930 PT reaffirmed by Evercore, new AI subscription plans); PANW up 40% YTD post strong Q3. AI infrastructure buildout remains the dominant theme.
+- Earnings before open: No major large-cap BMO reports. Small-cap only (Sodexo PK, Lindsay, Park Aerospace, BitMine). Irrelevant.
+- Economic releases today: CPI 335.12 (prior 335.1, essentially flat); PPI MoM +1.1% (prior 0.8%, hotter than expected); Core PPI +0.4%; ADP Employment 98K (below 105K forecast); NFP 172K (well above 110K forecast); JOLTS 7.594M steady; ISM Services PMI 54.5 (expansion). Fed Chair Warsh speech 1:20 PM + Congressional testimony 3:30 PM. July FOMC begins today (rate decision July 28-29).
+- Sector momentum (Leading): Consumer Staples (XLP), Industrials (XLI), Materials (XLB), Energy (XLE)
+- Sector momentum (Lagging): Technology (XLK), Communications (XLC), Consumer Discretionary (XLY), Financials (XLF)
+- Sector momentum (Weakening): Healthcare (XLV) | Improving: Real Estate (XLRE), Utilities (XLU)
+
+### Held Positions — News Check
+- NVDA: Trading ~$196-198, down -2.29% from $200.72 avg entry. Day range $193.45-$199.85. AI capex cycle intact (Meta + Microsoft confirmed continued AI spending). Volume below average (72M vs 156M avg). Technology sector is "Lagging" on momentum map — headwind but AI infrastructure theme remains fundamental driver. Thesis intact: YES. Not at -7% cut level ($186.67). Trailing stop GTC at $181.50 provides protection.
+
+### Trade Ideas (large/mid-cap only — all quality filters must pass)
+- None identified with high conviction in Leading sectors.
+- MU: Record quarter (+350% YoY, 85% gross margins). Technology sector = Lagging. Skip per momentum rule.
+- Energy names: WTI falling to 4.25-month low today. No positive catalyst; sector is Leading on trailing basis but oil declining. Skip.
+- Consumer Staples leaders: Defensive plays in a mild risk-on environment with no specific large-cap catalyst. Skip.
+- Industrials: No specific high-conviction catalyst identified today for a large-cap name. GEV exited previously.
+
+### Risk Factors
+- PPI MoM hotter than expected (+1.1% vs 0.8%) — inflationary pressure; potential "higher for longer" Fed signal
+- Warsh speech (1:20 PM) + Congressional testimony (3:30 PM) — Fed policy uncertainty
+- July FOMC meeting begins today; rate decision July 28-29 — market may front-run hawkish/dovish signals
+- Technology sector "Lagging" in momentum map — headwind for NVDA position
+- NVDA below average volume (72M vs 156M) — muted conviction in current range
+- NFP 172K vs 110K expected — strong labor market reduces urgency for Fed cuts
+
+### Decision
+HOLD — No new trades. Hot PPI + Warsh testimony create macro uncertainty. No high-conviction catalyst in Leading sectors. NVDA at -2.29% (above -7% cut threshold of $186.67); trailing stop GTC at $181.50 provides protection. Patience > activity.
