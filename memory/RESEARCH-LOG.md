@@ -92,3 +92,37 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-07-03 — Morning Research
+
+### Account Snapshot
+- Equity: $97,908.92 | Cash: $79,789.73 | Buying power: $369,892.65 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: 7,549.50 (+0.28%) — moot; markets CLOSED (Independence Day observed, July 4 Saturday)
+- VIX: 16.59 — low-moderate, trending down from 19.67 (June 23) and 21.51 spike (June 5); calmer macro backdrop
+- Oil (WTI/Brent): WTI ~$68.99/bbl | Brent ~$73.33/bbl (July 1 open); crude in 3-week slide
+- Top catalysts today: None (holiday). Recent: AVGO record $22.2B revenue (+AI chips +143% YoY); PANW NGS ARR +60% YoY to $8.13B; MU blockbuster HBM demand results. AI infrastructure capex cycle remains dominant theme.
+- Earnings before open: NONE — market closed. Next large-cap: PEP (July 9), DAL (July 10)
+- Economic releases today: NONE — Independence Day holiday. Next: FOMC minutes July 8; CPI June July 14; PPI July 15
+- Sector momentum (Leading): Consumer Staples, Energy, Industrials, Materials | (Lagging): Technology, Comm Services, Consumer Disc, Financials | (Improving): Real Estate, Utilities | (Weakening): Healthcare
+
+### Held Positions — News Check
+- NVDA: Closed $194.83 on July 2 (-1.55% on day, range $192.35–$200.06). Profit-taking across semiconductors (MU, AMD, NVDA) after record-breaking H1. No fundamental negative news. Strong Buy consensus (61 analysts), avg target $301.62 (+55% upside). AI infrastructure demand narrative intact — AVGO/MU results confirm continued AI capex cycle. Tech sector in LAGGING quadrant per rotation map. Thesis intact: YES. Trailing stop GTC at $181.503 (10% trail from HWM $201.67). Unrealized P&L: -$548 (-2.94% from $200.72 avg). Cut level (-7%): $186.67 — price well above.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- None. Markets closed today.
+- Monitoring for Monday July 7: Industrials/Energy/Consumer Staples setups with clear catalysts. Tech sector in lagging quadrant — will not add NVDA or open new tech position until sector rotation stabilizes.
+
+### Risk Factors
+- Markets closed today — no action possible
+- Tech sector in LAGGING quadrant; NVDA in extended pullback from 52-wk high $236.54
+- FOMC minutes July 8 could signal hawkish shift (rate hike pathway discussed at June 17 meeting)
+- CPI May +4.2% YoY (energy-driven); June CPI July 14 is next major risk event
+- Fed funds rate held at 3.50–3.75%; dot plot shifted toward possible 2026 hike — interest rate risk for growth stocks
+- June NFP report released July 2 (May payrolls +172K) — labor market context for July FOMC
+
+### Decision
+HOLD — Market closed (Independence Day holiday). No trades executable. NVDA position held: thesis intact, stop at $181.50 GTC provides protection, -2.94% unrealized loss is manageable and well above -7% cut rule ($186.67). Resume full evaluation Monday July 7: check if NVDA reclaims $200, monitor sector rotation signal for Tech, scan leading sectors (Industrials, Energy, Consumer Staples) for new setups ahead of FOMC minutes (July 8) and CPI (July 14).
