@@ -92,3 +92,42 @@ HOLD — Market closed today (Sunday). VIX at 19.5 warrants caution entering fre
 
 ### Decision
 HOLD — No new trades. VIX elevated, CPI Wednesday creates near-term macro risk. GEV thesis intact; trailing stop GTC provides downside protection. If GEV trades below $925.35 intraday, cut position immediately per -7% rule. Wait for cleaner macro backdrop and catalyst before adding a second position.
+
+---
+
+## 2026-07-06 — Morning Research
+
+### Account Snapshot
+- Equity: $97,934.96 | Cash: $79,789.73 | Buying power: $369,965.56 | Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ~7,557 (+0.38%) — positive premarket; first session after July 4 holiday
+- VIX: 16.15 (down from 16.59 prior day) — low, constructive risk-on environment; declining trend from 35.3 high, near 52-week lows
+- Oil (WTI/Brent): WTI ~$68.56 | Brent ~$71.75 — both down ~24-25% past month; Strait of Hormuz re-opened after US-Iran peace agreement, geopolitical premium dissipated
+- Top catalysts today: AI infrastructure demand confirmed by Broadcom (+143% YoY AI chip growth), PANW record Q3 (+60% NGS ARR); AMAT/KLAC June top large-cap gainers (+57%/+55%). NVDA CEO Jensen Huang called tech selloff a "buying opportunity"
+- Earnings before open: None (no major BMO reports today; major week ahead: PEP/DAL Thu 7/9, JPM Fri 7/10)
+- Economic releases today: ISM Services PMI 10:00 AM ET (key first reading of Q3); Fed Chair Warsh testimony 3:30 PM ET (first public testimony, hawkish Fed posture — uncertainty); Fed Goolsbee 7 PM, Logan 8:30 PM
+- Sector momentum: LEADING = Industrials (+15.5% 6-mo), Energy (+21.7%), Materials (+12.7%), Consumer Staples (+8.2%) | LAGGING = Technology (-relative, still +21.1% but below index trend), Financials, Consumer Disc, Comm Services
+
+### Held Positions — News Check
+- NVDA (93 shares, avg entry $200.72, current ~$195.11, -2.80%): Jensen Huang publicly bullish — called tech selloff "a buying opportunity," AI buildout just beginning. AI demand metrics strong (Broadcom +143% AI chips, CRDO +157%, ALAB +93% Q1). Stock pulled back from recent HWM $201.67 amid broad tech rotation. Trailing stop GTC $181.50 in place. Thesis intact: YES. Not at -7% cut level ($186.67). HOLD.
+
+### Trade Ideas (large/mid-cap only — all quality filters applied)
+- No new trades today. Reasons:
+  1. Technology sector (NVDA) is in LAGGING momentum quadrant — adding second tech position would violate sector momentum rule
+  2. Leading sectors (Industrials, Materials, Energy, Consumer Staples): No high-conviction catalyst with clear edge today
+  3. Warsh Fed testimony at 3:30 PM ET is unknown risk — new Fed Chair, hawkish posture; potential market-moving surprise
+  4. ISM Services PMI at 10 AM adds uncertainty at open
+  5. PEP/DAL earnings Thursday and JPM Friday create proximity risk for new positions this week
+  6. Oil down 25% in past month — Energy sector momentum weakening at entry level
+  7. Patience > activity; no edge = no trade
+
+### Risk Factors
+- Fed Chair Warsh first testimony (3:30 PM): Hawkish surprise could hit equities, especially tech
+- ISM Services PMI at open: Reading below 50 = contraction signal
+- NVDA at -2.80%: Needs to stay above $186.67 to avoid -7% manual cut. Trailing stop $181.50 provides floor
+- September rate hike probability ~60% per futures markets; any CPI surprise could spike VIX
+- Major earnings week incoming: PEP/DAL/JPM could drive large sector rotations
+
+### Decision
+HOLD — No new trades. VIX constructive at 16, futures positive, but Warsh testimony and ISM Services are same-day uncertainties. NVDA thesis intact; trailing stop protecting position. Leading sectors lack specific catalyst today. Week trade count: 0/3. Default to patience.
